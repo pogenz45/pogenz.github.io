@@ -1,0 +1,1854 @@
+{
+  "channel": {
+    "handle": "@tam_thefox",
+    "display_name": "Tâm Thefox",
+    "profile_url": "https://www.tiktok.com/@tam_thefox",
+    "followers": "495.7K",
+    "total_likes": "3.4M",
+    "following": 1,
+    "bio": "Bạn là chuyên gia / chủ DN có chuyên môn nhưng kênh chưa ra khách? Khám kênh nhanh tại đây 👇",
+    "bio_link": "www.tamthefox.com",
+    "analysis_date": "2026-11-26",
+    "grid_videos_scanned": 248,
+    "median_views": 58000,
+    "batch_number": 1,
+    "videos_analyzed_count": 19,
+    "remaining_videos_count": 229
+  },
+  "videos": [
+    {
+      "grid_index": 1,
+      "batch_group": "Ghim #1 + Top Outlier (#2)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7657414141677669652",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7657414141677669652",
+        "posted_date": "7-1",
+        "duration_sec": 57,
+        "caption": "Tính năng làm video mới, thử ngay nhé!! #xaykenh #tamthefox #videomarketing #tinhnangtiktok #lamvideo",
+        "hashtags": [
+          "#xaykenh",
+          "#tamthefox",
+          "#videomarketing",
+          "#tinhnangtiktok",
+          "#lamvideo"
+        ],
+        "is_pinned": true,
+        "views_text": "15.2M",
+        "views": 15200000,
+        "likes_text": "166.7K",
+        "likes": 166700,
+        "comments_count_text": "5947",
+        "comments_count": 5947,
+        "bookmarks_text": "31.6K",
+        "bookmarks": 31600,
+        "shares_text": "16.4K",
+        "shares": 16400,
+        "outlier_score": 262.07,
+        "labels_or_anchors": "CapCut · Editing made easy; no Paid Partnership/Sponsored/AI label",
+        "engagement_rates_pct": {
+          "like_rate": 1.1,
+          "comment_rate": 0.04,
+          "bookmark_rate": 0.21,
+          "share_rate": 0.11
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "00:02 quay màn hình giao diện CapCut/TikTok (AutoCut, Phụ đề, AI Self, Tách nền, Mẫu/Xu hướng) kèm khung mặt PiP vuông ở góc dưới trái.",
+        "text_hook": "Phụ đề vàng in đậm viền đen giữa khung (y≈55-60%): 'thậm chí bây giờ TikTok'; phần giới thiệu dùng cặp pill xếp chồng: 'TÍNH NĂNG MỚI' (chữ đen nền trắng) + 'Giúp bạn làm video nhanh hơn' (chữ trắng nền đỏ đậm).",
+        "audio_hook": "Qua phụ đề cứng tại 00:02: '...thậm chí bây giờ TikTok...'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Tính năng mới của TikTok / CapCut (Làm video nhanh bằng mẫu)",
+        "angle": "Đánh vào khát khao làm video cực nhanh cho người bận rộn/người mới xây kênh bằng tính năng có sẵn của nền tảng.",
+        "emotional_triggers": [
+          "Hữu ích thực thi ngay",
+          "FOMO (tính năng mới)",
+          "Nhẹ gánh công sức dựng video"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Mở thẳng vào màn hình giao diện chỉnh sửa/mẫu TikTok & CapCut kèm PiP mặt người nói ('thậm chí bây giờ TikTok') — chứng minh ngay công cụ thật.",
+        "development": "Cắt sang cảnh trong xe cầm điện thoại chỉ trực tiếp thao tác ('Bấm vào') + hiện pill 2 tầng 'TÍNH NĂNG MỚI / Giúp bạn làm video nhanh hơn' ('làm video cực kỳ nhanh').",
+        "climax_or_demo": "Demo toàn màn hình kết quả tạo video mẫu tự động ('Đi làm rất mệt mỏi...') kèm nút 'Nhật ký của bạn' / 'Tiếp' để người xem hình dung thành phẩm.",
+        "ending_cta": "Quay về full-cam trong xe, cử chỉ tay + chèn graphic bong bóng bình luận đang gõ ngay dưới phụ đề: 'có tính năng này không... và bình luận cho mình biết'."
+      },
+      "script_beats_observed": [
+        "00:02 — Mở bằng giao diện app CapCut/TikTok + PiP mặt người nói: 'thậm chí bây giờ TikTok'",
+        "00:10 — Cảnh trong xe hơi (áo xám xanh, đeo kính, micro cài cổ áo), tay chỉ trực tiếp màn hình chọn mẫu: 'Bấm vào'",
+        "00:17 (~30%) — Full-cam trong xe chỉ thẳng camera + pill tiêu đề 'TÍNH NĂNG MỚI / Giúp bạn làm video nhanh hơn': 'làm video cực kỳ nhanh'",
+        "00:34 (~60%) — Demo toàn màn hình kết quả tạo video mẫu tự động ('Đi làm rất mệt mỏi nhưng không thể không đi làm...') + PiP mặt ở chính giữa đáy, hiện nút 'Nhật ký của bạn' / 'Tiếp'",
+        "00:51 (~90%) — Full-cam trong xe, cử chỉ tay nhấn mạnh: 'có tính năng này không'",
+        "00:52 (~91%) — Chèn graphic bong bóng bình luận màu xám có dấu ba chấm ngay dưới phụ đề: 'và bình luận cho mình biết'"
+      ],
+      "visual_and_pacing": "Kết hợp talking-head trong xe hơi, thao tác tay cận cảnh, screen-recording demo kèm PiP, pill tiêu đề 2 tầng tương phản (trắng/đỏ đậm) và motion graphic CTA bong bóng comment. Phụ đề vàng viền đen nằm vùng an toàn y≈55-60%.",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng nói trực diện (âm thanh gốc) đóng vai trò dẫn dắt hướng dẫn từng bước, ghi bằng micro cài cổ áo rõ tiếng trong khoang xe kín (ít tạp âm)."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Hoàng Nam🙈: Fl chéo đi mn ơi🥰 (27 likes)",
+          "PHẠM TUẤN 💎💎: Fl chéo nào mn❤️❤️ (23 likes)",
+          "!: Chéo fl ạ (23 likes)",
+          "୨୧Choubau୨୧: Chéo fl với mình nha….. 🥰🥰🥰🥰🥰🥰 (23 likes)",
+          "Thảo nè❤️: Fl chéo (22 likes)",
+          "Liangzai: Fl chéo nhé mọi người!! (27 likes)",
+          "TRANG NGUYỄN OFFICIAL STORE: Chéo Fl+♥️nha các tình yêu (26 likes)",
+          "SHOP BUN BEN KIDS: Chéo fl trả liền (23 likes)",
+          "linh: chéo fl a (24 likes)",
+          "Thảo xinh 🌼🌼💕: Cheo fl (27 likes)"
+        ],
+        "main_reaction_groups": [
+          "Chiếm áp đảo top 10 bình luận là tệp người mới xây kênh kêu gọi 'Fl chéo / Chéo fl trả liền' (22–27 likes/comment, nhiều trả lời qua lại)."
+        ],
+        "comment_triggers": "Chủ đề 'tính năng làm video mới' + CTA hỏi trực tiếp kèm icon bong bóng bình luận ('có tính năng này không và bình luận cho mình biết') thu hút đúng tệp người mới xây kênh và tạo luồng comment chéo tự khuếch đại (5,947 comments).",
+        "creator_interaction": "Không thấy bình luận ghim hoặc phản hồi của chủ kênh trong top 10 bình luận hiển thị."
+      },
+      "viral_reasons": [
+        "Đánh trúng nhu cầu đại chúng lớn nhất trên TikTok: muốn ra video nhanh mà không cần biết dựng phức tạp.",
+        "Demo màn hình thật ngay từ giây 0–2 kết hợp cặp pill tiêu đề 2 tầng trắng/đỏ đậm dễ đọc ngay cả khi tắt tiếng.",
+        "Thời lượng gọn (~57s), mật độ lưu (31.6K bookmarks) và chia sẻ (16.4K shares) cao nhờ giá trị hướng dẫn thực tế.",
+        "Gắn anchor 'CapCut · Editing made easy' khớp ngữ cảnh nền tảng + CTA bong bóng bình luận kích hoạt 5,947 comments."
+      ],
+      "weaknesses": [
+        "Bình luận top bị chiếm bởi nhóm 'Fl chéo' (tệp đại chúng mới chơi), ít bình luận hỏi dịch vụ B2B — đây là lý do Tâm ghim video #2 (22.2K) ngay bên cạnh để lọc khách hàng chuyên gia/chủ DN."
+      ],
+      "key_lessons": [
+        "Dùng video demo tính năng mới chính chủ của TikTok/CapCut (~45–60s) làm 'mồi kéo lưu lượng đỉnh phễu' và ghim vị trí #1 để tạo bằng chứng xã hội (15.2M views).",
+        "Chèn motion graphic bong bóng bình luận ở 3–5 giây cuối cùng với câu hỏi kiểm tra ('bạn có tính năng này chưa?') để đẩy tốc độ comment."
+      ]
+    },
+    {
+      "grid_index": 2,
+      "batch_group": "Ghim #2 (Định vị thương hiệu)",
+      "distribution_type": "funnel_positioning_pinned",
+      "metadata_and_metrics": {
+        "video_id": "7677789874186964245",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7677789874186964245",
+        "posted_date": "8-25",
+        "duration_sec": 138,
+        "caption": "Là chính mình khi xây kênh #videomarketing #tamthefox #thuonghieucanhan #daotao #goancuong",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#thuonghieucanhan",
+          "#daotao",
+          "#goancuong"
+        ],
+        "is_pinned": true,
+        "views_text": "22.2K",
+        "views": 22200,
+        "likes_text": "1112",
+        "likes": 1112,
+        "comments_count_text": "170",
+        "comments_count": 170,
+        "bookmarks_text": "344",
+        "bookmarks": 344,
+        "shares_text": "246",
+        "shares": 246,
+        "outlier_score": 0.38,
+        "labels_or_anchors": "Không có CapCut/Sponsored anchor; có phần AI-generated summary của TikTok trong mô tả mở rộng.",
+        "engagement_rates_pct": {
+          "like_rate": 5.01,
+          "comment_rate": 0.77,
+          "bookmark_rate": 1.55,
+          "share_rate": 1.11
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong ô tô (áo thun xanh navy, đeo kính, cử chỉ tay diễn giải), màn hình chia nửa trên chèn chữ lớn đậm + nửa dưới talking head.",
+        "text_hook": "Góc trên trái chữ trắng/vàng nổi bật: 'Không ai chỉ ra được. / Nhưng ai cũng cảm thấy.' ('cảm thấy.' tô vàng). Dưới giữa có pill nền đen chữ trắng: 'Hay đang cố giả thành'.",
+        "audio_hook": "Theo phụ đề cứng 00:03: 'Không ai chỉ ra được. Nhưng ai cũng cảm thấy... Hay đang cố giả thành...'"
+      },
+      "topic_and_angle": {
+        "topic_category": "Tư duy & Chiến lược thương hiệu cá nhân cho chuyên gia / chủ DN",
+        "angle": "Phản trực giác & chạm tâm lý sâu: khán giả cảm nhận được sự giả tạo dù không nói ra → đưa khung ma trận 2×2 giúp chọn đúng hình mẫu thật của mình.",
+        "emotional_triggers": [
+          "Đồng cảm sâu",
+          "Định vị bản sắc",
+          "Tin tưởng thẩm quyền chuyên gia"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Mở đầu bằng câu châm ngôn ngắn gọn có chữ tô vàng góc trên trái ('Không ai chỉ ra được. / Nhưng ai cũng cảm thấy.') + pill phụ đề 'Hay đang cố giả thành'.",
+        "development": "Trình bày khung tư duy độc quyền bằng đồ họa ma trận 2×2 chia nửa màn hình trên ('Trục thứ nhất: NÓI / LÀM' kết hợp 'BIẾT / THÂN').",
+        "climax_or_demo": "Chuyển sang biểu đồ 4 cột xanh lá (10 | 10 | 10 | 10) phân tích 4 nhóm hình mẫu ('gỡ rối', 'thợ', 'dẫn chuyện', 'trong cuộc') với ví dụ 40 người.",
+        "ending_cta": "Kết luận về việc chọn đúng vai trò tự nhiên nhất của bản thân khi xây kênh."
+      },
+      "script_beats_observed": [
+        "00:03 (~2%) — Hook đánh vào sự chân thật/giả tạo khi xây kênh: 'Không ai chỉ ra được. Nhưng ai cũng cảm thấy.' / 'Hay đang cố giả thành'",
+        "00:05 (~4%) — Nửa trên hiện sơ đồ ma trận 2×2 nền tối, trục ngang 'NÓI' (cùng các trục LÀM / BIẾT / THÂN quan sát từ thumbnail lưới): 'Trục thứ nhất:'",
+        "01:03 (~45%) — Phân tích chia 4 nhóm nhân vật, nhấn mạnh từ khóa tô vàng: 'thì mỗi nhóm mười người'",
+        "02:00 (~87%) — Nửa trên hiện biểu đồ 4 cột xanh lá (10 | 10 | 10 | 10) với 4 hình mẫu 'gỡ rối', 'thợ', 'dẫn chuyện', 'trong cuộc' kèm chú thích 'Ví dụ 40 người — bốn nhóm chia gần bằng nhau'"
+      ],
+      "visual_and_pacing": "Phong cách chuyên gia/đào tạo sâu (~2 phút 18 giây), bố cục chia đôi dọc (trên đồ họa ma trận 2×2 & biểu đồ cột màu xanh lá trên nền tối, dưới là talking-head trong xe hơi), phụ đề dạng pill nền đen chữ trắng tô vàng từ khóa chính ở vùng giữa dưới an toàn.",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng chia sẻ chậm rãi, điềm tĩnh kiểu cố vấn/giảng viên trong xe hơi, nhấn vào trọng lượng tri thức thay vì nhạc nền sôi động."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Hủ Tiếu 57: Hay em ơi (2 likes)",
+          "xí xáo xìn: cảm ơn bạn đã chia xẻ (1 like)",
+          "Toàn Nguyễn: luôn thấy video hữu ích (3 likes, 1 reply)",
+          "Thanh Thanh: em cảm ơn anh nhiêu nha (3 likes, 1 reply)",
+          "Lan Võ: Cảm ơn chia sẻ hay (2 likes)",
+          "Lên được hợp đồng là đi nhậu🍻: rất hữu ích cám ơn a 👍👍👍 (2 likes)",
+          "Nguyễn yen Oanh: Cảm ơn bạn đã chia se (1 like)",
+          "Quỳnh mạnh @8386: cảm ơn bạn đã chia sẻ (2 likes)"
+        ],
+        "main_reaction_groups": [
+          "100% top 8 bình luận là lời cảm ơn nghiêm túc, tôn trọng từ khán giả trưởng thành/chủ kinh doanh ('Hay em ơi', 'luôn thấy video hữu ích', 'rất hữu ích cám ơn a 👍👍👍').",
+          "Hoàn toàn KHÔNG có spam 'Fl chéo' hay 'Xin vía'."
+        ],
+        "comment_triggers": "Khung ma trận 2×2 có hệ thống tạo cảm giác 'ngộ ra' và giá trị tư vấn cao, thúc đẩy tỷ lệ lưu (1.55%) và chia sẻ (1.11%) rất cao.",
+        "creator_interaction": "Có phản hồi ở một số bình luận khen hữu ích (Toàn Nguyễn, Thanh Thanh — View 1 reply)."
+      },
+      "viral_reasons": [
+        "Dù view tổng không cao (22.2K, OS=0.38x), hiệu suất chất lượng cực xuất sắc: 5.01% like rate, 1.55% bookmark rate, 1.11% share rate — cao gấp 3–4 lần video đại chúng.",
+        "Đóng vai trò chiến lược hoàn hảo ở vị trí Ghim #2: đón người xem từ video triệu view (Ghim #1) và chuyển đổi họ thành khách hàng tin tưởng năng lực đào tạo/khám kênh."
+      ],
+      "weaknesses": [
+        "Thời lượng dài (~138s / 2 phút 18 giây) và nội dung tư duy chiến lược sâu kén người xem đại chúng → không bùng nổ thuật toán mở rộng (OS=0.38x)."
+      ],
+      "key_lessons": [
+        "Áp dụng chiến lược 'Cặp video ghim 2 tầng': Ghim #1 là video triệu view dễ tiếp cận để lấy uy tín & kéo khách vào profile; Ghim #2 là video khung tư duy sâu (ma trận 2×2 / biểu đồ) để chốt niềm tin với tệp khách hàng mục tiêu.",
+        "Đừng đánh giá video chuyển đổi B2B chỉ qua lượt xem thô — hãy đo bằng tỷ lệ Lưu (>1.5%), Chia sẻ (>1%) và chất lượng bình luận (0% spam)."
+      ]
+    },
+    {
+      "grid_index": 140,
+      "batch_group": "Top Outlier (#1 — 166.4M)",
+      "distribution_type": "platform_or_campaign_boosted_outlier",
+      "metadata_and_metrics": {
+        "video_id": "7539010888251198738",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7539010888251198738",
+        "posted_date": "2025-8-16",
+        "duration_sec": 26,
+        "caption": "Bí ý tưởng? Đã có công cụ SEO chính thức từ TikTok giúp bạn tạo nội dung đúng ý người xem. Tìm #CreatorSearchInsights trên thanh tìm kiếm và dùng thử ngay! #learnontiktok #tamthefox #videomarketing",
+        "hashtags": [
+          "#CreatorSearchInsights",
+          "#learnontiktok",
+          "#tamthefox",
+          "#videomarketing"
+        ],
+        "is_pinned": false,
+        "views_text": "166.4M",
+        "views": 166400000,
+        "likes_text": "221.2K",
+        "likes": 221200,
+        "comments_count_text": "2837",
+        "comments_count": 2837,
+        "bookmarks_text": "29.4K",
+        "bookmarks": 29400,
+        "shares_text": "19.6K",
+        "shares": 19600,
+        "outlier_score": 2868.97,
+        "labels_or_anchors": "CapCut · Editing made easy (tỷ lệ like/view ~0.13% + caption chuẩn thông điệp chính thức từ TikTok về #CreatorSearchInsights cho thấy nhiều khả năng được đẩy phân phối chiến dịch/platform push).",
+        "engagement_rates_pct": {
+          "like_rate": 0.13,
+          "comment_rate": 0.0,
+          "bookmark_rate": 0.02,
+          "share_rate": 0.01
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Studio trong nhà gọn gàng (tường xám, cây bonsai có đèn ring light, kệ sách), Tâm mặc áo cổ cao đen, đeo kính, cầm micro không dây nói trực diện.",
+        "text_hook": "Phụ đề vàng đậm viền đen chính giữa khung: 00:01 'nội dung trên TikTok' → 00:03 'công cụ mới này đâu'.",
+        "audio_hook": "Theo phụ đề cứng 00:01–00:03: '...nội dung trên TikTok... công cụ mới này đâu'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Công cụ SEO chính thức của TikTok (#CreatorSearchInsights)",
+        "angle": "Giải quyết nỗi đau 'bí ý tưởng' bằng công cụ chính chủ của TikTok chỉ trong 26 giây.",
+        "emotional_triggers": [
+          "FOMO ('chưa biết công cụ mới này đâu')",
+          "Hữu ích siêu nhanh",
+          "Tò mò tính năng ẩn"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Studio sáng sạch, cắt thẳng vào vấn đề ở 00:01–00:03 ('nội dung trên TikTok... công cụ mới này đâu') không chào hỏi.",
+        "development": "00:12 tách nền người nói (green-screen) đặt trên ảnh chụp thanh tìm kiếm TikTok gõ 'creator search insight', khoanh tròn đỏ nút 'Xem' và chỉ rõ 3 tab ('Tất cả | Nội dung ít đăng | Thịnh hành').",
+        "climax_or_demo": "Cho thấy trực quan các cụm tìm kiếm đang hot ('1000 million views viral video'...) ngay trong giao diện thật.",
+        "ending_cta": "Quay lại studio kết gọn ở 00:23–00:26; caption dẫn trực tiếp hành động: 'Tìm #CreatorSearchInsights trên thanh tìm kiếm và dùng thử ngay!'."
+      },
+      "script_beats_observed": [
+        "00:01–00:03 — Hook ngắn gọn đánh vào nỗi sợ bỏ lỡ công cụ mới của người làm nội dung TikTok ('nội dung trên TikTok... công cụ mới này đâu')",
+        "00:12 (~45%) — Tách nền người nói (green-screen cutout) đè lên ảnh màn hình Tìm kiếm TikTok gõ 'creator search insight', khoanh đỏ nút 'Xem' trên banner 'Thông tin về tìm kiếm thịnh hành cho nhà...', hiển thị 3 tab 'Tất cả | Nội dung ít đã... | Thịnh hành' ('có được')",
+        "00:23 (~88%) — Quay lại khung studio kết nhanh trong 26 giây ('trước với')"
+      ],
+      "visual_and_pacing": "Cực kỳ cô đọng (~26 giây!), mở đầu studio sạch sẽ → cắt nhanh sang green-screen demo giao diện tìm kiếm có khoanh đỏ điểm bấm 'Xem' → chốt gọn. Nhịp nhanh, không thừa 1 giây.",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Giọng nói nhanh, gọn, gãy gọn trên nền tiếng gốc để nén toàn bộ hướng dẫn vào 26 giây, tối đa hóa tỷ lệ xem hết video."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "m h u y: Creator search insights (227 likes, 20 replies)",
+          "Nguyễn Hoàng Mobile: Creator search insights (0 likes)",
+          "sữa: Creator search insights (5 likes)",
+          "Loan Nguyen 2024: Creator search insights có chủ đề đào tạo nhân sự không? em tìm mà không thấy (0 likes)",
+          "thienkhailand: Creator search insights (1 like)",
+          "BÌNH YÊN ƠI 🍀✨: Creator search insights ✨ (3 likes)",
+          "Hello Kids: Creator search insights (3 likes)",
+          "ѕᴋʏđᴏᴍđóᴍ>:O: 70tr lượt xem, kỉ lục gì đây? 🗿 (147 likes, 17 replies)"
+        ],
+        "main_reaction_groups": [
+          "Phần lớn top bình luận (6/8) người xem gõ nguyên văn cụm từ khóa tiếng Anh 'Creator search insights' (đến 227 likes).",
+          "Bình luận kinh ngạc về mức view kỷ lục ('70tr lượt xem, kỉ lục gì đây? 🗿' — 147 likes).",
+          "Câu hỏi thực hành theo ngách cụ thể ('có chủ đề đào tạo nhân sự không? em tìm mà không thấy')."
+        ],
+        "comment_triggers": "Tên tính năng tiếng Anh dài & khó nhớ ('Creator Search Insights') khiến người xem tự động gõ lại vào phần bình luận để ghi nhớ/sao chép hoặc bấm thanh tìm kiếm xanh tự động của TikTok.",
+        "creator_interaction": "Không quan sát thấy nhãn creator liked trong top 8 bình luận hiển thị."
+      },
+      "viral_reasons": [
+        "Video cực ngắn (~26s), trực diện, hướng dẫn từng bước rõ ràng với vòng khoanh đỏ nút 'Xem' nên tỷ lệ hoàn thành & lưu (29.4K) cao.",
+        "Đạt 166.4M views với tỷ lệ like/view ~0.13% và caption chuẩn ngôn ngữ chiến dịch chính thức ('công cụ SEO chính thức từ TikTok... Tìm #CreatorSearchInsights') — dấu hiệu rất rõ của phân phối đẩy mạnh từ nền tảng/chiến dịch TikTok (platform push / campaign boost).",
+        "Tạo ra vòng lặp bình luận từ khóa ('Creator search insights') giúp tăng mạnh tín hiệu SEO của video."
+      ],
+      "weaknesses": [
+        "Tỷ lệ tương tác trên mỗi lượt xem thấp (0.13% like) do phân phối siêu rộng sang cả khán giả ngoài ngách nhờ platform/campaign push — không nên lấy con số 166.4M làm kỳ vọng organic thông thường."
+      ],
+      "key_lessons": [
+        "Luôn bám sát và làm tutorial sớm nhất cho các công cụ chính thức TikTok đang muốn đẩy mạnh (như Creator Search Insights) — cơ hội rất lớn được nền tảng ưu tiên phân phối.",
+        "Với hướng dẫn nhanh 1 tính năng, nén gọn trong 25–35 giây + khoanh đỏ nút bấm giúp tối đa hóa completion rate.",
+        "Đưa một cụm từ khóa công cụ cụ thể (đặc biệt tên tiếng Anh) vào kịch bản sẽ kích thích người xem tự gõ lại từ khóa đó ở bình luận."
+      ]
+    },
+    {
+      "grid_index": 114,
+      "batch_group": "Top Outlier (#3 — 6.6M)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7569522785035308306",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7569522785035308306",
+        "posted_date": "2025-11-6",
+        "duration_sec": 70,
+        "caption": "Thử cách đăng này nhé #creatorsearchinsight #cachdangvideolenxuhuong #tamthefox #videomarketing #leanontiktok",
+        "hashtags": [
+          "#creatorsearchinsight",
+          "#cachdangvideolenxuhuong",
+          "#tamthefox",
+          "#videomarketing",
+          "#leanontiktok"
+        ],
+        "is_pinned": false,
+        "views_text": "6.6M",
+        "views": 6600000,
+        "likes_text": "178.2K",
+        "likes": 178200,
+        "comments_count_text": "7901",
+        "comments_count": 7901,
+        "bookmarks_text": "67.4K",
+        "bookmarks": 67400,
+        "shares_text": "41K",
+        "shares": 41000,
+        "outlier_score": 113.79,
+        "labels_or_anchors": "CapCut · Editing made easy; cụm tìm kiếm liên quan 'tiktok insight creator'",
+        "engagement_rates_pct": {
+          "like_rate": 2.7,
+          "comment_rate": 0.12,
+          "bookmark_rate": 1.02,
+          "share_rate": 0.62
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong ô tô (áo thun hồng đất, đeo kính, micro DJI cài cổ áo); ngay 00:01–00:03 chèn hình cắt nút 'Đăng' màu đỏ của TikTok được khoanh tròn đỏ ở góc trên phải.",
+        "text_hook": "Phụ đề vàng đậm viền đen giữa khung: 00:01 'dưới 200 lượt xem' → 00:03 'và video của bạn'.",
+        "audio_hook": "Theo phụ đề cứng 00:01–00:03: '...dưới 200 lượt xem... và video của bạn...'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Cách đăng video vượt 200 views qua Creator Search Insights",
+        "angle": "Chạm thẳng nỗi đau phổ biến nhất ('dưới 200 lượt xem') rồi lật ngược thói quen bấm nút 'Đăng' thông thường.",
+        "emotional_triggers": [
+          "Nỗi đau kẹt 200 view",
+          "Tò mò thủ thuật đăng mới",
+          "Kỳ vọng bứt phá tương tác"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Ngồi trong ô tô, ngay 00:01–00:03 nói thẳng 'dưới 200 lượt xem' đồng thời chèn hình nút 'Đăng' màu đỏ khoanh tròn đỏ ở góc trên phải.",
+        "development": "Cầm điện thoại kèm ảnh chụp màn hình danh sách chủ đề nóng trong Creator Search Insights hiển thị rõ số triệu lượt xem ('Boost self-confidence 21.2M', 'Educational 216K'...) và nút máy quay đỏ bên cạnh ('mà mọi người đang quan tâm').",
+        "climax_or_demo": "Chứng minh đăng trực tiếp từ chủ đề có sẵn nhu cầu tìm kiếm giúp video 'có thể có được cái tương tác'.",
+        "ending_cta": "Mở lời hỗ trợ bình luận ('mình sẽ giải đáp cho bạn') để gom câu hỏi & bình luận từ khóa."
+      },
+      "script_beats_observed": [
+        "00:01–00:03 — Hook chạm thẳng nỗi đau phổ biến nhất ('dưới 200 lượt xem') kết hợp visual khoanh đỏ nút 'Đăng' gây tò mò cách đăng khác biệt",
+        "00:31 (~45%) — Cầm điện thoại kèm ảnh màn hình danh sách chủ đề trong Creator Search Insights ('Boost self-confidence 21.2M', 'Educational 216K', 'Review Các Đồ Dùng Tiện Ích', nút máy quay đỏ bên phải): 'mà mọi người đang quan tâm'",
+        "01:01 (~87%) — Giải thích lợi ích tăng tương tác khi đăng trực tiếp từ chủ đề tìm kiếm ('có thể có được cái tương tác') và mở lời mời bình luận ('mình sẽ giải đáp cho bạn')"
+      ],
+      "visual_and_pacing": "Thời lượng ~70s nhưng giữ nhịp tốt nhờ visual overlay xuất hiện ngay giây đầu (nút 'Đăng' khoanh đỏ), sau đó chuyển sang ảnh chụp màn hình Creator Search Insights đặt ngay giữa khung để người xem nhìn thấy số view triệu của từng từ khóa (tạo bằng chứng trực quan & động lực lưu video: 67.4K bookmarks!).",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Giọng trò chuyện gần gũi, rõ ràng thu bằng micro cài áo DJI trong xe hơi — giữ cảm giác chia sẻ thực chiến, không quảng cáo."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "bon: Creator Search Insights (175 likes, 7 replies, Creator liked)",
+          "Yến Vyy: Creator search insight (643 likes, 30 replies, Creator liked)",
+          "qh.: Creator Search Insights (0 likes)",
+          "Bột: Creator Search Insights (31 likes, 1 reply)",
+          "Thì ra là: Creator search insight (18 likes, Creator liked)",
+          "aqhenxs.: Creator search insight (0 likes)",
+          "viu2k15: Creator search insight (12 likes)",
+          "Hiền Linh: Creator Search Insights (17 likes, 1 reply)"
+        ],
+        "main_reaction_groups": [
+          "8/8 bình luận top đều là người xem tự gõ chính xác cụm 'Creator Search Insights' / 'Creator search insight' (lên tới 643 likes, 30 replies)."
+        ],
+        "comment_triggers": "Vòng lặp từ khóa tìm kiếm cực mạnh: người xem bình luận tên công cụ để nhớ & tìm kiếm; chủ kênh chủ động thả tim cho các bình luận gõ tên công cụ này (Creator liked: true) để củng cố hành vi!",
+        "creator_interaction": "Chủ kênh thả tim (Creator liked) trực tiếp vào ít nhất 3/8 bình luận top gõ từ khóa 'Creator Search Insights'."
+      },
+      "viral_reasons": [
+        "Viral tự nhiên cực khỏe: 6.6M views, 178.2K likes (2.7%), 7,901 comments, đặc biệt 67.4K lượt lưu (1.02% save rate!) và 41K lượt chia sẻ.",
+        "Kết hợp 2 đòn bẩy mạnh nhất ngay 3 giây đầu: Nỗi đau con số cụ thể ('dưới 200 lượt xem') + Visual khoanh đỏ nút 'Đăng' phá vỡ thói quen mặc định.",
+        "Bằng chứng con số view triệu trên ảnh chụp màn hình Creator Search Insights khiến người xem phải bấm Lưu (67.4K) để làm theo."
+      ],
+      "weaknesses": [
+        "Không có điểm yếu đáng kể; đây là chuẩn mực vàng (gold standard) cho dạng video tutorial organic trên kênh."
+      ],
+      "key_lessons": [
+        "Mở đầu bằng con số nỗi đau cụ thể ('dưới 200 lượt xem') + đồ họa khoanh đỏ 1 nút quen thuộc trên giao diện TikTok tạo tỷ lệ dừng lướt cực cao.",
+        "Thả tim (Creator like) cho các bình luận gõ tên công cụ/từ khóa giúp thúc đẩy thêm hàng nghìn người khác bình luận tương tự."
+      ]
+    },
+    {
+      "grid_index": 112,
+      "batch_group": "Top Outlier (#4 — 5.7M)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7572200111426751752",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7572200111426751752",
+        "posted_date": "2025-11-13",
+        "duration_sec": 42,
+        "caption": "Làm ngay nhé #leanontiktok #videomarketing #tamthefox #xaykenh #nhatky",
+        "hashtags": [
+          "#leanontiktok",
+          "#videomarketing",
+          "#tamthefox",
+          "#xaykenh",
+          "#nhatky"
+        ],
+        "is_pinned": false,
+        "views_text": "5.7M",
+        "views": 5700000,
+        "likes_text": "69.5K",
+        "likes": 69500,
+        "comments_count_text": "3647",
+        "comments_count": 3647,
+        "bookmarks_text": "15.2K",
+        "bookmarks": 15200,
+        "shares_text": "15.5K",
+        "shares": 15500,
+        "outlier_score": 98.28,
+        "labels_or_anchors": "CapCut · Editing made easy; cụm tìm kiếm liên quan 'cách chia sẻ lại nhật ký tiktok'",
+        "engagement_rates_pct": {
+          "like_rate": 1.22,
+          "comment_rate": 0.06,
+          "bookmark_rate": 0.27,
+          "share_rate": 0.27
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong ô tô ngày mưa (áo hồng đất, đeo kính, micro cài áo DJI) kèm banner tiêu đề 2 tầng cố định phía trên mặt ngay từ 0.5s.",
+        "text_hook": "Banner 2 tầng: pill trắng chữ đen đậm in hoa 'CÁCH TĂNG LƯỢT XEM' xếp trên pill đỏ đậm chữ trắng 'mà không tốn thêm chi phí'; phụ đề vàng giữa khung: 0.5s 'rất nhiều người' → 2.5s 'tính năng này'.",
+        "audio_hook": "Theo phụ đề cứng 0.5s–2.5s: '...rất nhiều người... tính năng này...'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Tính năng Nhật ký / Story TikTok giúp tăng lượt xem miễn phí",
+        "angle": "Lợi ích lớn + không tốn tiền ('tăng lượt xem mà không tốn thêm chi phí') kết hợp tâm lý FOMO ('rất nhiều người bỏ qua tính năng này').",
+        "emotional_triggers": [
+          "Ham lợi ích miễn phí",
+          "FOMO bỏ lỡ tính năng",
+          "Dễ làm ngay lập tức"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Banner 2 tầng cố định ngay 0.5s: 'CÁCH TĂNG LƯỢT XEM' (nền trắng) + 'mà không tốn thêm chi phí' (nền đỏ đậm); lời mở 'rất nhiều người... tính năng này'.",
+        "development": "Gỡ banner ở giữa clip, dùng cả hai tay giải thích cơ chế chia sẻ lại video qua Nhật ký/Story ('thì video sẽ được... được cái video của bạn').",
+        "climax_or_demo": "Nhấn mạnh hiệu quả mở rộng tiếp cận mà không tốn chi phí quảng cáo.",
+        "ending_cta": "Chốt triển vọng tích cực ('đang tăng lên') trong 42 giây + caption mệnh lệnh nhẹ 'Làm ngay nhé'."
+      },
+      "script_beats_observed": [
+        "00:00–00:03 — Banner lợi ích cực mạnh ('CÁCH TĂNG LƯỢT XEM / mà không tốn thêm chi phí') + câu mở FOMO ('rất nhiều người [bỏ qua] tính năng này')",
+        "00:19–00:25 (~45–61%) — Gỡ banner tiêu đề, dùng cử chỉ cả hai tay giải thích cơ chế chia sẻ lại qua Nhật ký/Story ('thì video sẽ được... được cái video của bạn')",
+        "00:37 (~88%) — Chốt kết quả tích cực ('đang tăng lên') trong thời lượng gọn ~42s"
+      ],
+      "visual_and_pacing": "Bố cục tối giản nhưng hiệu quả cao (~42s): giữ banner 2 tầng trắng/đỏ đậm cố định suốt 3 giây đầu để người xem đọc ngay lợi ích không cần bật tiếng, sau đó gỡ banner để tập trung hoàn toàn vào biểu cảm & ngôn ngữ tay; chủ kênh tích cực thả tim bình luận ngay ngày đầu đăng bài.",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Giọng nói trực tiếp rõ ràng trong ô tô ngày mưa, không cần nhạc nền ồn ào để giữ sự tập trung vào mẹo hành động."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Siti Maesaroh: cam. on. ban. da. chia .xe (17 likes, Creator liked)",
+          "Ngọc An: Xem video đó thôi sao (16 likes, Creator liked)",
+          "Hoàng Hải: cảm ơn bạn (19 likes)",
+          "NGỌC THỎ: Cảm ơn đã chia sẻ (16 likes)",
+          "Tấn Hữu: hay qua anh (17 likes, Creator liked)",
+          "Bảo Anh 2097: T làm liền.😁 (16 likes, Creator liked)",
+          "Nam Phương: Cảm ơn bạn (16 likes)",
+          "si.wave0: Hay nha👍 (16 likes)"
+        ],
+        "main_reaction_groups": [
+          "Phản hồi tích cực, biết ơn và cam kết thực hành ngay ('T làm liền.😁', 'hay qua anh', 'Cảm ơn đã chia sẻ').",
+          "Câu hỏi xác nhận thao tác ('Xem video đó thôi sao')."
+        ],
+        "comment_triggers": "Mẹo siêu đơn giản làm được ngay trong 10 giây khiến người xem bình luận xác nhận/cảm ơn (3,647 comments).",
+        "creator_interaction": "Tâm tích cực thả tim (Creator liked) tới 4/8 bình luận top ngay ngày hôm sau đăng bài (2025-11-14)."
+      },
+      "viral_reasons": [
+        "Banner 2 tầng trắng/đỏ đậm xuất hiện ngay 0.5s truyền tải trọn vẹn giá trị ('CÁCH TĂNG LƯỢT XEM / mà không tốn thêm chi phí') kể cả khi người xem tắt tiếng.",
+        "Độ dài lý tưởng (~42s) — đủ giải thích trọn 1 mẹo duy nhất mà không loãng nhịp.",
+        "Tích cực tương tác thả tim bình luận trong 24 giờ đầu giúp giữ đà đề xuất."
+      ],
+      "weaknesses": [
+        "Tỷ lệ like/view (1.22%) và bookmark/view (0.27%) thấp hơn video #114 (6.6M) vì thiếu ảnh chụp màn hình thao tác từng bước trực quan trong thân video."
+      ],
+      "key_lessons": [
+        "Công thức banner 2 tầng chữ lớn 0–3s: Dòng 1 [Kết quả mong muốn] (nền trắng chữ đen) + Dòng 2 [Điều kiện hấp dẫn/xóa rào cản như 'không tốn chi phí'] (nền đỏ đậm chữ trắng).",
+        "Dành 24 giờ đầu sau đăng để thả tim các bình luận sớm nhằm kích thích tương tác."
+      ]
+    },
+    {
+      "grid_index": 94,
+      "batch_group": "Top Outlier (#5 — 5.1M)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7593389315439267090",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7593389315439267090",
+        "posted_date": "1-9",
+        "duration_sec": 76,
+        "caption": "Nhớ bật lên nhé #tamthefox #videomarketing #xaykenh #cachlenxuhuong #upload",
+        "hashtags": [
+          "#tamthefox",
+          "#videomarketing",
+          "#xaykenh",
+          "#cachlenxuhuong",
+          "#upload"
+        ],
+        "is_pinned": false,
+        "views_text": "5.1M",
+        "views": 5100000,
+        "likes_text": "130.3K",
+        "likes": 130300,
+        "comments_count_text": "12.5K",
+        "comments_count": 12500,
+        "bookmarks_text": "31.5K",
+        "bookmarks": 31500,
+        "shares_text": "31.8K",
+        "shares": 31800,
+        "outlier_score": 87.93,
+        "labels_or_anchors": "CapCut · Editing made easy",
+        "engagement_rates_pct": {
+          "like_rate": 2.55,
+          "comment_rate": 0.25,
+          "bookmark_rate": 0.62,
+          "share_rate": 0.62
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi ghế lái ô tô (áo navy, kính, micro cài áo, Apple Watch), tay trái minh họa; ngay 0.5s gắn banner 2 tầng phía trên mặt.",
+        "text_hook": "Banner 2 tầng: pill trắng 'TÍNH NĂNG GIÚP VIDEO' + pill đỏ phụ 'Tiếp cận và Giữ chân người xem'; phụ đề vàng đậm: 0.5s 'mà bạn bắt buộc' → 2.5s 'một cái cài đặt'.",
+        "audio_hook": "Qua phụ đề cứng 0.5s–2.5s: '...mà bạn bắt buộc... một cái cài đặt...'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Cài đặt ẩn khi đăng video ('Cho phép tải lên chất lượng cao')",
+        "angle": "Cảnh báo bắt buộc ('mà bạn bắt buộc... một cái cài đặt') để không bị mất điểm tiếp cận & giữ chân người xem.",
+        "emotional_triggers": [
+          "Sợ làm sai mất view (Loss Aversion)",
+          "Hữu ích tức thì (1 nút gạt)",
+          "Kiểm tra lại kênh mình ngay"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Banner 2 tầng trắng/đỏ ('TÍNH NĂNG GIÚP VIDEO / Tiếp cận và Giữ chân người xem') + câu nhấn khẩn cấp 'mà bạn bắt buộc... một cái cài đặt'.",
+        "development": "Cắt sang ảnh chụp toàn màn hình giao diện 'Tùy chọn khác' của TikTok, khoanh khung chữ nhật đỏ vào công tắc BẬT 'Cho phép tải lên chất lượng cao' kèm PiP mặt Tâm ở đáy giữa.",
+        "climax_or_demo": "Khẳng định kết quả nếu bật cài đặt chất lượng cao ('thì đảm bảo là').",
+        "ending_cta": "Quay về full-cam trong xe, gỡ banner, chốt câu mệnh lệnh hành động 'bật cái tính năng này' + caption 'Nhớ bật lên nhé'."
+      },
+      "script_beats_observed": [
+        "00:00–00:03 — Banner lợi ích kép ('Tiếp cận và Giữ chân người xem') + lời nhấn tính bắt buộc ('mà bạn bắt buộc... một cái cài đặt')",
+        "~45% — Ảnh màn hình toàn khung giao diện 'Tùy chọn khác' khi đăng TikTok, khoanh khung chữ nhật đỏ vào công tắc BẬT 'Cho phép tải lên chất lượng cao', kèm PiP nhỏ của Tâm ở chính giữa đáy ('thì đảm bảo là')",
+        "~88% — Quay về talking-head trong xe, bỏ banner, nhắc hành động chốt ('bật cái tính năng này')"
+      ],
+      "visual_and_pacing": "Cấu trúc chuẩn kênh (~76s): Mở đầu bằng banner 2 tầng trắng/đỏ gây khẩn cấp → cắt sang demo màn hình thực tế có khung chữ nhật đỏ chỉ đích danh nút gạt + PiP mặt → chốt hành động trực tiếp. Phụ đề vàng giữa khung không dính UI.",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Giọng nói trực tiếp trong xe, nhấn mạnh bằng từ ngữ khẳng định mạnh ('bắt buộc', 'đảm bảo')."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "con ngựa🐴: nhả vía hết bị flop kênh tiktok🌹 (1611 likes, 171 replies)",
+          "Cam 🍊: Fl chéo nè mn (132 likes, 21 replies)",
+          "Truc Ly: bắt mà vẫn không cao (0 likes)",
+          "body Hiền Nguyễn: fl chéo nha mn (97 likes, 19 replies)",
+          "Trân tập rì viu: Chéo fl ạ 🥰 (67 likes, 19 replies)",
+          "Quý Bán Đủ Thứ: Chéo fl mn ơi (11 likes, 2 replies)",
+          "tập làm mẹ ( mẹ sữa): Người mới xây kênh (404 likes, 50 replies)",
+          "Nguyễn Kim Chi: Chéo giúp em fl nha mn (57 likes, 7 replies)"
+        ],
+        "main_reaction_groups": [
+          "Tệp người mới xây kênh xin vía & tương tác chéo ('nhả vía hết bị flop kênh tiktok🌹' — 1,611 likes, 171 replies; 'Người mới xây kênh' — 404 likes; nhiều bình luận 'Fl chéo').",
+          "Phản hồi kiểm chứng thực tế ('bắt mà vẫn không cao')."
+        ],
+        "comment_triggers": "Tâm lý 'sợ kênh bị flop do quên bật 1 cài đặt' kéo 12.5K comments, 31.5K lưu và 31.8K shares.",
+        "creator_interaction": "Không quan sát được nhãn creator-like ở trích xuất văn bản của video này."
+      },
+      "viral_reasons": [
+        "Đòn bẩy tâm lý Loss Aversion ('bắt buộc phải bật') kết hợp thao tác siêu dễ (chỉ 1 công tắc gạt) khiến ai cũng muốn xem đến đoạn lộ tên nút cài đặt.",
+        "Minh họa giao diện TikTok thật kèm khung đỏ đánh dấu đích danh công tắc giúp tỷ lệ Lưu (31.5K) và Chia sẻ (31.8K — cao hơn cả lượt lưu!) tăng vọt.",
+        "Thời lượng vừa đẹp (~76s), cấu trúc banner 2 tầng nhất quán thương hiệu."
+      ],
+      "weaknesses": [
+        "Bình luận tiếp tục bị pha loãng bởi làn sóng 'Fl chéo' / 'Xin vía' đặc trưng của các chủ đề cơ bản cho người mới."
+      ],
+      "key_lessons": [
+        "Các video hướng dẫn '1 cài đặt ẩn bắt buộc phải bật trước khi đăng' luôn đạt tỷ lệ Chia sẻ (Share) và Lưu (Save) cực cao vì dễ kiểm chứng và dễ gửi cho bạn bè cùng làm kênh.",
+        "Khi quay màn hình cài đặt, luôn dùng khung chữ nhật đỏ khoanh chính xác vị trí nút gạt + giữ PiP mặt người nói ở đáy giữa để duy trì kết nối cảm xúc."
+      ]
+    },
+    {
+      "grid_index": 35,
+      "batch_group": "Top Outlier (#6 — 5M / AI)",
+      "distribution_type": "paid_partnership_boosted",
+      "metadata_and_metrics": {
+        "video_id": "7678552708957228309",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7678552708957228309",
+        "posted_date": "8-27",
+        "duration_sec": 143,
+        "caption": "Nếu bạn chưua biết bắt đầu từ đâu, hãy xem video này! #Dola #AI #seedance25 #VN #tamthefox",
+        "hashtags": [
+          "#Dola",
+          "#AI",
+          "#seedance25",
+          "#VN",
+          "#tamthefox"
+        ],
+        "is_pinned": false,
+        "views_text": "5M",
+        "views": 5000000,
+        "likes_text": "25K",
+        "likes": 25000,
+        "comments_count_text": "2353",
+        "comments_count": 2353,
+        "bookmarks_text": "5416",
+        "bookmarks": 5416,
+        "shares_text": "2085",
+        "shares": 2085,
+        "outlier_score": 86.21,
+        "labels_or_anchors": "Paid partnership; Creator labeled as AI-generated (tỷ lệ like/view ~0.5% + bình luận nhắc 'vì 3k6 xu'/'1700 điểm' cho thấy có đẩy phân phối quảng cáo/chiến dịch đối tác).",
+        "engagement_rates_pct": {
+          "like_rate": 0.5,
+          "comment_rate": 0.05,
+          "bookmark_rate": 0.11,
+          "share_rate": 0.04
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi bàn làm việc studio trước kệ sách ánh sáng tím/ấm (áo đen, kính, micro vuông màu tím cài ngực), gắn huy hiệu cam nổi bật góc trên trái.",
+        "text_hook": "Badge viền cam góc trên trái: '100+ VIDEO ĐÃ LÀM'; phụ đề dạng pill tím đậm: 'sẻ cách xây kênh rồi'.",
+        "audio_hook": "Qua phụ đề cứng 00:02–00:04: '...sẻ cách xây kênh rồi...' (định vị thẩm quyền từ 100+ video thực chiến)."
+      },
+      "topic_and_angle": {
+        "topic_category": "Công cụ AI làm nội dung / kịch bản (Dola AI / Seedance 2.5)",
+        "angle": "Chứng thực bằng kinh nghiệm ('100+ VIDEO ĐÃ LÀM') + giải quyết nỗi sợ 'chưa biết bắt đầu từ đâu' bằng cách gom kinh nghiệm thành 1 file cho AI hỏi ngược 5 câu.",
+        "emotional_triggers": [
+          "Uy tín thực chiến",
+          "Giải pháp tắt cho người bí ý tưởng",
+          "FOMO công cụ AI mới"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Studio ánh sáng tím/ấm, gắn badge viền cam góc trên trái '100+ VIDEO ĐÃ LÀM' ngay 00:02 để tạo thẩm quyền tức thì.",
+        "development": "Giới thiệu phương pháp hệ thống hóa bằng thẻ đồ họa 'GOM KINH NGHIỆM / thành một file của riêng bạn' ở 01:05.",
+        "climax_or_demo": "Demo giao diện chat Dola AI với tiêu đề 'NÓ HỎI NGƯỢC 5 CÂU' và 8 gợi ý prompt nội dung thực tế ('kiểu gì cho tự nhiên').",
+        "ending_cta": "Thẻ CTA cam lớn chính giữa 'BÌNH LUẬN / Dola AI' + lời kêu gọi 'Và nhắn tin cho Tâm' kéo lead trực tiếp."
+      },
+      "script_beats_observed": [
+        "00:02–00:04 — Thiết lập thẩm quyền ngay giây đầu với badge '100+ VIDEO ĐÃ LÀM' và câu chuyện tổng hợp kinh nghiệm xây kênh",
+        "01:05 (~45%) — Chèn thẻ thông tin nền tối lower-third kèm icon upload: 'GOM KINH NGHIỆM / thành một file của riêng bạn' ('gom lại thành một')",
+        "02:06 (~88%) — Hiện thẻ CTA cam lớn trên giữa màn hình kèm logo: 'BÌNH LUẬN / Dola AI' + lời kêu gọi 'Và nhắn tin cho Tâm'",
+        "02:15 (~94%) — Demo màn hình chat Dola AI với tiêu đề 'NÓ HỎI NGƯỢC 5 CÂU' và 8 gợi ý prompt nội dung ('kiểu gì cho tự nhiên')"
+      ],
+      "visual_and_pacing": "Video dài dạng chuyên gia + tài trợ (~143s), sản xuất chỉn chu trong studio, dùng thẻ đồ họa đồng bộ theo màu thương hiệu (tím/cam) cho từng ý chính (Credibility badge → Feature card → Keyword CTA card → Demo UI), phễu chuyển đổi rõ sang bình luận từ khóa 'Dola AI' và nhắn tin.",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng chia sẻ bài bản trong studio (micro vuông tím cài áo), nhịp đều và thuyết phục cho video dài 2 phút 23 giây."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Mộc.Silk floral design: Dola ai a cho e xun nhé a (0 likes)",
+          "♯♯♭♪♯♪: Wow đỉnh v ( vì 3k6 xu ) (4 likes, 1 reply, Creator liked)",
+          "〆ily\"athu 🛍️: wow, đỉnh quá (vì 1700 điểm) (76 likes, 11 replies, Creator liked)",
+          "Le Nga: Dola ia (3 likes, 1 reply, Creator liked)",
+          "Đá mỹ nghệ mạnh tuấn0975986262: Anh ơi dola làm xong mình làm sao để đăng lên tiktok hả anh (3 likes, 1 reply)",
+          "Jindo Football: Chia sẻ hay quá anh (2 likes)",
+          "Phule48: hãy quá 🥰🥰🥰@@@ (7 likes, 1 reply)",
+          "hoàng triều: cho em học với a (3 likes, 1 reply)"
+        ],
+        "main_reaction_groups": [
+          "Người xem thực hiện đúng CTA gõ từ khóa để nhận công cụ/hướng dẫn ('Dola ai a cho e xun nhé a', 'Dola ia', 'cho em học với a', 'Anh ơi dola làm xong mình làm sao để đăng lên tiktok').",
+          "Bình luận làm nhiệm vụ thưởng điểm/xu của chiến dịch quảng cáo ('Wow đỉnh v ( vì 3k6 xu )', 'wow, đỉnh quá (vì 1700 điểm)')."
+        ],
+        "comment_triggers": "Thẻ CTA trực quan 'BÌNH LUẬN Dola AI' + chiến dịch Paid Partnership đẩy phân phối tạo 2,353 comments.",
+        "creator_interaction": "Chủ kênh thả tim (Creator liked) nhiều bình luận top (#2, #3, #4) và có trả lời ở nhiều bình luận hỏi cách làm."
+      },
+      "viral_reasons": [
+        "5M views đến phần lớn từ đẩy phân phối chiến dịch đối tác (nhãn 'Paid partnership' + 'AI-generated', tỷ lệ like/view ~0.5% và bình luận nhắc '3k6 xu' / '1700 điểm').",
+        "Tuy là video tài trợ dài (~143s), cấu trúc chuyển đổi được thiết kế rất chuyên nghiệp: Credibility badge đầu video → Thẻ tóm tắt từng ý → Demo tính năng thực tế → Thẻ CTA bình luận từ khóa."
+      ],
+      "weaknesses": [
+        "Tỷ lệ tương tác hữu cơ (0.5% like, 0.11% bookmark) thấp hơn nhiều so với các video tutorial tự nhiên (2.5–4.8% like) do độ dài 143s và tính chất quảng bá đối tác."
+      ],
+      "key_lessons": [
+        "Khi làm video bán hàng / giới thiệu công cụ AI, đặt badge uy tín bằng con số thật ('100+ VIDEO ĐÃ LÀM') ở 3 giây đầu và thiết kế thẻ CTA bình luận từ khóa cụ thể ('BÌNH LUẬN [TỪ KHÓA]') ở cuối video.",
+        "Luôn phân tách dữ liệu video có nhãn 'Paid partnership' khỏi nhóm viral tự nhiên khi chấm điểm công thức organic."
+      ]
+    },
+    {
+      "grid_index": 49,
+      "batch_group": "Top Outlier (#7 — 4.5M)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7661644842639854869",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7661644842639854869",
+        "posted_date": "7-12",
+        "duration_sec": 111,
+        "caption": "Đăng video từ nút dấu cộng #videomarketing #tamthefox #creatorsearchinsights #thuonghieucanhan #xaykenhtiktok",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#creatorsearchinsights",
+          "#thuonghieucanhan",
+          "#xaykenhtiktok"
+        ],
+        "is_pinned": false,
+        "views_text": "4.5M",
+        "views": 4500000,
+        "likes_text": "95.4K",
+        "likes": 95400,
+        "comments_count_text": "9491",
+        "comments_count": 9491,
+        "bookmarks_text": "42.4K",
+        "bookmarks": 42400,
+        "shares_text": "16.8K",
+        "shares": 16800,
+        "outlier_score": 77.59,
+        "labels_or_anchors": "CapCut · Editing made easy",
+        "engagement_rates_pct": {
+          "like_rate": 2.12,
+          "comment_rate": 0.21,
+          "bookmark_rate": 0.94,
+          "share_rate": 0.37
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong studio trước kệ sách (áo đen, kính, micro xám cài ngực, tay cầm bút làm đạo cụ nhấn nhịp), gắn banner 2 tầng phía trên.",
+        "text_hook": "Banner 2 tầng: pill trắng 'CÁCH ĐĂNG VIDEO' + pill đỏ 'Giúp video tăng khả năng lên xu hướng'; phụ đề vàng: 00:02 'Nếu như bạn muốn' → 00:04 'nhất là đối với'.",
+        "audio_hook": "Qua phụ đề cứng 00:02–00:04: 'Nếu như bạn muốn... nhất là đối với...'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Chiến lược đăng video từ nút dấu cộng vs Creator Search Insights",
+        "angle": "Thách thức thói quen mặc định của 99% người dùng ('Đăng video từ nút dấu cộng') để mở ra cách chọn chủ đề có sẵn người tìm kiếm.",
+        "emotional_triggers": [
+          "Tò mò sai lầm quen thuộc",
+          "Khát khao lên xu hướng của người mới",
+          "Cảm giác nắm được 'bí kíp'"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Studio ngồi cầm bút, banner 2 tầng 'CÁCH ĐĂNG VIDEO / Giúp video tăng khả năng lên xu hướng', mở lời nhắm thẳng người mới ('Nếu như bạn muốn... nhất là đối với').",
+        "development": "Ở 00:50 (~45%) đổi sang banner phân chương mới 'NÊN ĐĂNG VIDEO NHƯ THẾ NÀO? / ĐẶC BIỆT LÀ NGƯỜI MỚI LÀM VIDEO' để reset sự chú ý trong video dài 111s.",
+        "climax_or_demo": "Ở 01:38 (~88%) tháo banner trên, bật pill đỏ chốt cốt lõi 'Chủ đề đang có nhiều người muốn xem'.",
+        "ending_cta": "Ở 01:44 (~94%) bật lại banner 'CÁCH ĐĂNG VIDEO' chốt vòng lặp câu chuyện 'từ nút dấu cộng'."
+      },
+      "script_beats_observed": [
+        "00:02–00:04 — Banner công thức quen thuộc ('CÁCH ĐĂNG VIDEO / Giúp video tăng khả năng lên xu hướng') nhắm thẳng người mới xây kênh",
+        "00:50 (~45%) — Đổi banner phân chương giữa video để giữ chú ý trong video dài 111s: 'NÊN ĐĂNG VIDEO NHƯ THẾ NÀO? / ĐẶC BIỆT LÀ NGƯỜI MỚI LÀM VIDEO' ('hay là họ chăm chăm')",
+        "01:38 (~88%) — Gỡ banner trên, bật pill đỏ chốt nguyên lý ở vùng dưới: 'Chủ đề đang có nhiều người muốn xem' ('nhiều người đang muốn xem')",
+        "01:44 (~94%) — Bật lại banner 'CÁCH ĐĂNG VIDEO' chốt vòng lặp câu hỏi về cách đăng ('từ nút dấu cộng')"
+      ],
+      "visual_and_pacing": "Dù chỉ quay 1 góc studio talking-head (~111s), video vẫn đạt 4.5M view và 42.4K lượt lưu nhờ cầm bút tạo cử chỉ tự nhiên + thay đổi banner phân chương theo từng chặng (Mở đầu → Câu hỏi trọng tâm ở 45% → Pill đỏ chốt đáp án ở 88% → Callback nút dấu cộng ở 94%).",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng giảng giải tự tin, có điểm nhấn; tay cầm bút làm đạo cụ giúp cử chỉ tự nhiên suốt gần 2 phút talking-head."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "🐰Thỏ không ăn 🥕: tim mình tự tìm đến (6 likes)",
+          "Tiệm Đồ Xinh 🛍️: Tim tự tìm đến 🥰 (1795 likes, 38 replies)",
+          "T.huyy14577: giúp tôi với (20 likes, 1 reply)",
+          "Fang joker: Xin vía xuhuong (0 likes)",
+          "Diễm Quỳnh: Tui tự tim đến ạ (518 likes, 9 replies)",
+          "DamNgoc: xin vía xu hướng (0 likes)",
+          "Ngáo Review: Tui tự tìm đến ạ🥰🥰🥰 (24 likes)",
+          "🖤: tự tìm đến ạ (84 likes, 1 reply)"
+        ],
+        "main_reaction_groups": [
+          "Chiếm đa số top bình luận là trend 'tự tìm đến' / 'xin vía xu hướng' ('Tim tự tìm đến 🥰' — 1,795 likes; 'Tui tự tim đến ạ' — 518 likes; 'Xin vía xuhuong')."
+        ],
+        "comment_triggers": "Chủ đề 'cách đăng lên xu hướng cho người mới' kích hoạt tâm lý cầu may/tìm cộng đồng tương tác, kéo tới 9,491 comments và 42.4K bookmarks.",
+        "creator_interaction": "Không thấy nhãn creator-like ở top 5 bình luận trong ảnh chụp."
+      },
+      "viral_reasons": [
+        "Dù dài ~111s và chỉ quay 1 góc studio talking-head, video vẫn bùng nổ 4.5M views và 42.4K lượt lưu nhờ nghệ thuật đổi banner phân chương ở mốc 45% và chốt pill đỏ ở 88%.",
+        "Lặp lại & nâng cấp một góc nhìn đã chứng minh hiệu quả (Creator Search Insights vs nút dấu cộng) với cách đóng gói tiêu đề mới sắc bén hơn."
+      ],
+      "weaknesses": [
+        "Giống các video đại chúng về 'lên xu hướng', lượng bình luận 'tự tìm đến / xin vía' chiếm áp đảo các câu hỏi chuyên môn."
+      ],
+      "key_lessons": [
+        "Với video talking-head dài >90 giây không có nhiều B-roll, BẮT BUỘC đổi banner phân chương ở giữa clip (~40–50%) và bật thẻ chốt nguyên lý ở ~85% để reset chú ý.",
+        "Cầm một đạo cụ nhỏ (cây bút) giúp tay tự nhiên, tăng uy tín giảng dạy và giảm cảm giác đơ trước ống kính."
+      ]
+    },
+    {
+      "grid_index": 198,
+      "batch_group": "Top Outlier (#8 — 3.7M / Era Cáo)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7427483401487240466",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7427483401487240466",
+        "posted_date": "2024-10-19",
+        "duration_sec": 54,
+        "caption": "Sao chép liên kết 😅 #tamthefox #videomarketing #saocheplienket #nhamnhi",
+        "hashtags": [
+          "#tamthefox",
+          "#videomarketing",
+          "#saocheplienket",
+          "#nhamnhi"
+        ],
+        "is_pinned": false,
+        "views_text": "3.7M",
+        "views": 3700000,
+        "likes_text": "176.8K",
+        "likes": 176800,
+        "comments_count_text": "10.8K",
+        "comments_count": 10800,
+        "bookmarks_text": "32.8K",
+        "bookmarks": 32800,
+        "shares_text": "138K",
+        "shares": 138000,
+        "outlier_score": 63.79,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 4.78,
+          "comment_rate": 0.29,
+          "bookmark_rate": 0.89,
+          "share_rate": 3.73
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Tiểu phẩm đối thoại 2 nhân vật cắt cảnh nhanh: Nhân vật A (đeo kính, áo đen cổ lọ, phông trắng, cầm mic Saramonic trên que) đối lập với Nhân vật B ('Cáo' đội mũ beret tai cáo lông cam, áo cam rực, phòng ấm có bảng phi tiêu & đèn cây).",
+        "text_hook": "Phụ đề vàng đậm in nghiêng viền đen giữa khung: 'lên xu hướng' / 'hơn lượt thích'.",
+        "audio_hook": "Đối thoại hỏi đáp nhanh giữa 2 nhân vật về mẹo 'lên xu hướng' và giá trị 'hơn lượt thích' của nút sao chép liên kết."
+      },
+      "topic_and_angle": {
+        "topic_category": "Bóc trần hiểu lầm 'Sao chép liên kết để lên xu hướng'",
+        "angle": "Hài châm biếm / giải ảo (myth-busting) bằng tiểu phẩm đối thoại 2 nhân vật cực tương phản.",
+        "emotional_triggers": [
+          "Hài hước châm biếm",
+          "Bất ngờ khi bị 'bóc trần sự thật'",
+          "Thôi thúc chia sẻ/bấm sao chép liên kết theo hiệu ứng meta"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Cắt cảnh cực nhanh giữa Chuyên gia (áo đen, phông trắng) và Cáo (mũ tai cáo cam, áo cam rực) tranh luận ngay về 'lên xu hướng' và 'hơn lượt thích'.",
+        "development": "Đối đáp nhanh hai chiều: Nhân vật A chất vấn ('làm theo gì') trước sự ngây thơ/học lỏm của Nhân vật B.",
+        "climax_or_demo": "Cáo bóc trần chiêu trò 'sao chép liên kết' (làm người xem bật cười vì từng tin/từng làm theo, đồng thời tự bấm nút Chia sẻ/Sao chép liên kết như một trò đùa meta!).",
+        "ending_cta": "Câu chọc cười kết mở ('ai biết năm điểm gì') để khán giả tranh luận và tự giải thích ở bình luận."
+      },
+      "script_beats_observed": [
+        "00:00–00:04 — Cắt luân phiên nhanh giữa Cáo (áo cam/mũ tai cáo) và Chuyên gia (áo đen/phông trắng) tranh luận về cách 'lên xu hướng' / 'hơn lượt thích'",
+        "00:23 (~43%) — Nhân vật A (áo đen) chất vấn ngược với biểu cảm hài hước: 'làm theo gì'",
+        "00:46 (~86%) — Nhân vật B (mũ tai cáo cam) bóc trần màn 'sao chép liên kết' (gây hiệu ứng hài hước meta khiến người xem bấm Sao chép liên kết/Share ồ ạt → 138K shares!)",
+        "Cuối video — Câu đùa kết mở tạo tranh luận/cười ('ai biết năm điểm gì')"
+      ],
+      "visual_and_pacing": "Đỉnh cao giai đoạn 'Hỏi Đáp Cáo Chồn' (~54s): đối lập màu sắc cực gắt (phông trắng/áo đen vs phòng ấm/áo cam + mũ tai cáo độc bản), cắt cảnh liên tục mỗi 2–4 giây theo nhịp đối đáp, không cần hiệu ứng cầu kỳ nhưng giữ retention và kích thích 138K shares + 10.8K comments.",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Đối thoại nhanh, dồn dập bằng 2 tông giọng/thái độ khác nhau (nghiêm túc vs lém lỉnh) tạo tiết tấu giải trí không nghỉ."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "đáiiiii lên đầu lũ lỗi gen: giải thích ở đây👇 (80 likes, 12 replies, Creator liked)",
+          "TONY7L: Em sao chép nhiều quá giờ video 3000 view :) (168 likes, 14 replies, Creator liked)",
+          "thanh yêu ơi: Xu hướng (345 likes, 18 replies, Creator liked)",
+          "Sang làm vườn: sao chép liên kết là giúp người khác lên xu hướng. Bóc trần sự thật rất hay 😂 (38 likes, 2 replies, Creator liked)",
+          "Nguyễn Quốc Trường: Sao video t ko bao giờ lên xu hướng hết vậy 😂😂😂 (21 likes)",
+          "Nguyễn Thị Thu - -:: có không em ơi nói vui hả (20 likes, 3 replies)",
+          "Trần Hà: cho mình hỏi bán hàng thì mới sao chép liên kết đúng k bạn (14 likes, 2 replies)",
+          "monmon2092@: e sao chép hoài k lên xu hướng (36 likes, 6 replies)"
+        ],
+        "main_reaction_groups": [
+          "Khán giả tự thú nhận/trêu đùa ('Em sao chép nhiều quá giờ video 3000 view :)' — 168 likes; 'e sao chép hoài k lên xu hướng').",
+          "Khán giả khen bóc trần sự thật ('sao chép liên kết là giúp người khác lên xu hướng. Bóc trần sự thật rất hay 😂').",
+          "Người xem mới thật sự bối rối vào hỏi lại ('có không em ơi nói vui hả', 'bán hàng thì mới sao chép liên kết đúng k bạn') → tạo tranh luận đa chiều."
+        ],
+        "comment_triggers": "Tính hài châm biếm + phá vỡ niềm tin truyền miệng + kết mở tạo cả tranh luận (10.8K comments) lẫn kỷ lục **138K shares** (3.73% share rate!).",
+        "creator_interaction": "Chủ kênh thả tim (Creator liked) tới 4/4 bình luận top đầu để đẩy các bình luận giải thích & hài hước lên trên."
+      },
+      "viral_reasons": [
+        "Tỷ lệ tương tác tự nhiên ĐỈNH NHẤT trong nhóm triệu view: 4.78% like (176.8K), 3.73% share (**138K shares!!**), 10.8K comments.",
+        "Tạo hình thương hiệu không thể nhầm lẫn (áo cam + mũ tai cáo nâu vs áo đen + phông trắng) giúp dừng lướt trong 0.5 giây dù chưa cần đọc chữ.",
+        "Hiệu ứng 'Meta-Share': nói về hành động 'Sao chép liên kết' khiến khán giả thử bấm Sao chép liên kết ngay trên video đó → TikTok ghi nhận thành 138,000 lượt Share và đẩy viral bùng nổ!",
+        "Độ dài vàng (~54s) với nhịp cắt cảnh đối thoại mỗi 2–4 giây."
+      ],
+      "weaknesses": [
+        "Một phần nhỏ người xem chưa quen kiểu châm biếm có thể hiểu nhầm ngược nếu không xem kỹ ('có không em ơi nói vui hả')."
+      ],
+      "key_lessons": [
+        "Format 'Tiểu phẩm đối thoại 2 nhân vật tương phản màu sắc' (Chuyên gia nghiêm túc vs Nhân vật ngây ngô mang biểu tượng thương hiệu) là vũ khí giải ảo (myth-busting) có tỷ lệ like & share cao nhất.",
+        "Nhắc trực tiếp đến 1 hành vi tương tác của TikTok (như 'sao chép liên kết', 'lưu lại', 'bình luận') trong bối cảnh hài hước có thể kích hoạt hiệu ứng Meta-Engagement cực mạnh."
+      ]
+    },
+    {
+      "grid_index": 226,
+      "batch_group": "Top Outlier (#9 — 2.7M / Era Cáo)",
+      "distribution_type": "organic_viral_mega_hit",
+      "metadata_and_metrics": {
+        "video_id": "7404418287708163346",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7404418287708163346",
+        "posted_date": "2024-8-18",
+        "duration_sec": 43,
+        "caption": "Cứ tưởng nhạc hot auto lên xu hướng #tamthefox #videomarketing #videoquangcao #nhacxuhuong",
+        "hashtags": [
+          "#tamthefox",
+          "#videomarketing",
+          "#videoquangcao",
+          "#nhacxuhuong"
+        ],
+        "is_pinned": false,
+        "views_text": "2.7M",
+        "views": 2700000,
+        "likes_text": "100.6K",
+        "likes": 100600,
+        "comments_count_text": "3553",
+        "comments_count": 3553,
+        "bookmarks_text": "29K",
+        "bookmarks": 29000,
+        "shares_text": "12.3K",
+        "shares": 12300,
+        "outlier_score": 46.55,
+        "labels_or_anchors": "CapCut · Editing made easy; thẻ tìm kiếm 'creative center song'",
+        "engagement_rates_pct": {
+          "like_rate": 3.73,
+          "comment_rate": 0.13,
+          "bookmark_rate": 1.07,
+          "share_rate": 0.46
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Nhân vật Cáo (mũ tai cáo cam, áo cam, cầm mic Saramonic trên que) quay ban công buổi tối, biểu cảm hỏi gài bẫy ngây thơ.",
+        "text_hook": "Phụ đề vàng đậm in nghiêng giữa khung: 'một cái nhạc' / 'đúng hông em' (phản biện trực tiếp niềm tin sai lầm 'Cứ tưởng nhạc hot auto lên xu hướng').",
+        "audio_hook": "Kết hợp nhạc nền trend 'Valentina (Speed up)' + câu thoại hỏi gài bẫy 'một cái nhạc... đúng hông em'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Giải ảo nhạc xu hướng & Hướng dẫn dùng TikTok Creative Center",
+        "angle": "Phá vỡ hiểu lầm phổ biến ('Cứ tưởng nhạc hot auto lên xu hướng') bằng hài đối thoại rồi trao ngay công cụ chính chủ miễn phí ở nửa cuối.",
+        "emotional_triggers": [
+          "Bất ngờ (bẻ lái niềm tin cũ)",
+          "Giải trí (meme chèn giữa clip)",
+          "Hữu ích (công cụ thật ở cuối clip)"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Nhân vật Cáo quay ban công buổi tối cầm mic trên que hỏi gài bẫy ngây thơ ('một cái nhạc... đúng hông em') trên nền nhạc speed-up bắt tai.",
+        "development": "00:18 chia đôi màn hình: trên là Nhân vật A (áo đen, phông trắng) giải thích thực tế ('họ sẵn sàng'), dưới chèn clip meme phản ứng hài hước (pattern interrupt giữ chân).",
+        "climax_or_demo": "00:37 chuyển toàn màn hình demo 'TikTok: Creative Center' (Songs → Popular → Last 7 days) lộ bảng xếp hạng nhạc hot Việt Nam thật (W/N, AMEE, Đình Quang Đạt).",
+        "ending_cta": "Kết gọn ở 43 giây ngay khi người xem vừa thấy giải pháp công cụ, tạo thôi thúc bấm Lưu (29K) và hỏi chỗ tìm công cụ."
+      },
+      "script_beats_observed": [
+        "00:00–00:03 — Cáo đặt câu hỏi phổ biến của người mới về chuyện gắn 'một cái nhạc' hot ('đúng hông em')",
+        "00:18 (~42%) — Chia đôi màn hình (pattern interrupt): trên là Nhân vật A (áo đen, phông trắng) giải thích ('họ sẵn sàng'), dưới chèn meme clip phản ứng hài hước (người đội mũ đen liếc MacBook)",
+        "00:37 (~86%) — Chuyển toàn màn hình demo công cụ 'TikTok: Creative Center' (tab Songs → Popular → Last 7 days hiện BXH thực tế: W/N, AMEE, Đình Quang Đạt) cung cấp giải pháp cụ thể ngay lập tức"
+      ],
+      "visual_and_pacing": "Cực nhanh và vui (~43s): kết hợp hài đối thoại 2 nhân vật + chia đôi màn hình chèn meme giải trí ở giữa clip + quay màn hình công cụ thực tế ở cuối clip + nhạc trend speed-up. Công thức Edutainment hoàn hảo (Giải trí mở đầu → Chốt công cụ hữu ích để kéo 29K lượt lưu).",
+      "audio_analysis": {
+        "sound_name": "Valentina (Speed up) - Shineboys",
+        "audio_role": "Sử dụng trực tiếp nhạc nền speed-up đang thịnh hành để tăng nhịp năng lượng cho tiểu phẩm giải trí đồng thời gắn đúng chủ đề 'nhạc xu hướng'."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "em_đẹp chăm da: tiktok creative center à b . tks b (6 likes)",
+          "Tiến Nguyễnn🕸: đroi đó (1 like, Creator liked)",
+          "Nhà Cốm Vừng: tiktok creative center là ở đâu ạ (17 likes, 1 reply, Creator liked)",
+          "Lâm_stylist: Dính bản quyền tắt tiếng (165 likes, 23 replies, Creator liked)",
+          "dinvlog00: Xin vía ạ (1 like, Creator liked)",
+          "đức duy: chia sẻ hay quá (1 like)",
+          "💫RURI💤: creative center song (1 like)",
+          "Trần Thanh273: chờ lên xu hướng như chờ lên trời 😂😂😂 (39 likes, 6 replies)"
+        ],
+        "main_reaction_groups": [
+          "Hỏi cách tìm/truy cập công cụ ('tiktok creative center là ở đâu ạ', 'tiktok creative center à b . tks b', 'creative center song').",
+          "Nêu vấn đề phát sinh thực tế ('Dính bản quyền tắt tiếng' — 165 likes, 23 replies) → trở thành mỏ ý tưởng trực tiếp cho video phần sau đạt 2.2M views (#203 'Cách tìm nhạc sắp trend có bản quyền')!",
+          "Bình luận đồng cảm hài hước ('chờ lên xu hướng như chờ lên trời 😂😂😂')."
+        ],
+        "comment_triggers": "Vừa gây tranh luận/cười ở nửa đầu vừa giấu tên đường dẫn công cụ ở nửa cuối khiến người xem bình luận hỏi & xác nhận tên 'tiktok creative center' (3,553 comments).",
+        "creator_interaction": "Chủ kênh thả tim nhiều bình luận top (#2–#5), bao gồm cả bình luận phản biện 'Dính bản quyền tắt tiếng'."
+      },
+      "viral_reasons": [
+        "Công thức Edutainment hoàn hảo trong 43 giây: 0–15s Hài giải ảo (giữ chân đại chúng) → 15–30s Chia đôi màn hình chèn Meme (reset nhịp) → 30–43s Demo màn hình TikTok Creative Center (kéo 29K lượt lưu).",
+        "Bước ngoặt tiến hóa rõ rệt chỉ sau 6 tuần kể từ video 3.4K views (#245): đổi hoàn toàn từ lý thuyết khô sang nhân vật Cáo + công cụ TikTok cụ thể.",
+        "Tỷ lệ tương tác cao toàn diện: 3.73% like (100.6K), 29K bookmarks, 12.3K shares."
+      ],
+      "weaknesses": [
+        "Chưa xử lý luôn vấn đề bản quyền nhạc thương mại ngay trong video, nhưng chính 'khoảng hở' này lại tạo 165-like comment để đẻ ra video kế tiếp 2.2M views."
+      ],
+      "key_lessons": [
+        "Áp dụng công thức 3 hồi trong 40–50 giây: [Giải ảo niềm tin sai] → [Pattern Interrupt bằng Meme/Split-screen] → [Demo công cụ thật trên màn hình].",
+        "Đọc kỹ các bình luận phản biện/hỏi vặn nhiều like nhất (như 'Dính bản quyền tắt tiếng') để biến thành chủ đề video triệu view tiếp theo."
+      ]
+    },
+    {
+      "grid_index": 3,
+      "batch_group": "Mới nhất #1 + View thấp nhất",
+      "distribution_type": "newest_niche_b2b_explainer",
+      "metadata_and_metrics": {
+        "video_id": "7712062395572620545",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7712062395572620545",
+        "posted_date": "22h ago",
+        "duration_sec": 179,
+        "caption": "Làm sao khách hàng xem video nhiều hơn? #tamthefox #videomarketing #thuonghieucanhan #xaykenh #doanhnghiep",
+        "hashtags": [
+          "#tamthefox",
+          "#videomarketing",
+          "#thuonghieucanhan",
+          "#xaykenh",
+          "#doanhnghiep"
+        ],
+        "is_pinned": false,
+        "views_text": "1569",
+        "views": 1569,
+        "likes_text": "102",
+        "likes": 102,
+        "comments_count_text": "18",
+        "comments_count": 18,
+        "bookmarks_text": "28",
+        "bookmarks": 28,
+        "shares_text": "16",
+        "shares": 16,
+        "outlier_score": 0.03,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 6.5,
+          "comment_rate": 1.15,
+          "bookmark_rate": 1.78,
+          "share_rate": 1.02
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Từ thumbnail lưới: nền vàng kem đồ họa motion graphic tòa nhà 5 tầng với hình người que trên tầng 5 phát sóng âm gọi người dưới đường + khung mặt tròn (bubble facecam) ở góc trên phải; phần <3s trong player không tách riêng được khung đầu do seek dừng ở ~47%.",
+        "text_hook": "Thumbnail mở đầu: chữ đen nền nhấn vàng 'GỌI KHÁCH HÀNG / ĐANG Ở NGOÀI ĐƯỜNG'; giữa clip (~47%): 'KHOẢNG CÁCH RẤT XA' → 'DƯỚI ĐƯỜNG RẤT NHIỀU TẠP ÂM'.",
+        "audio_hook": "Qua phụ đề cứng quan sát được (giữa & cuối clip): ẩn dụ đứng tầng 5 gọi khách ngoài đường có 'KHOẢNG CÁCH RẤT XA', 'DƯỚI ĐƯỜNG RẤT NHIỀU TẠP ÂM', hướng về nhóm 'ĐA SỐ ĐÃ CÓ CHUYÊN MÔN'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Tư duy truyền thông tiếp cận khách hàng cho chủ doanh nghiệp",
+        "angle": "Dùng ẩn dụ trực quan (đứng tầng 5 gọi người đi dưới đường nhiều tạp âm) để giải thích vì sao chuyên gia/chủ DN có chuyên môn nhưng khách hàng không xem video.",
+        "emotional_triggers": [
+          "Ngộ ra qua hình ảnh ẩn dụ",
+          "Đồng cảm của chủ DN có chuyên môn",
+          "Học thuật trực quan"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Đồ họa nền vàng kem + tòa nhà 5 tầng với hình người que + tiêu đề 'GỌI KHÁCH HÀNG ĐANG Ở NGOÀI ĐƯỜNG' và facecam tròn nhỏ góc trên phải.",
+        "development": "Phân tích rào cản bằng đồ họa mũi tên 'KHOẢNG CÁCH RẤT XA' và sóng nhiễu 'DƯỚI ĐƯỜNG RẤT NHIỀU TẠP ÂM'.",
+        "climax_or_demo": "Chuyển ngữ cảnh từ ẩn dụ sang thực tế làm video bán hàng/xây kênh của chủ doanh nghiệp.",
+        "ending_cta": "Cắt sang full-screen talking-head trong ô tô (~95%) khẳng định tệp khách hàng mục tiêu ('ĐA SỐ ĐÃ CÓ CHUYÊN MÔN')."
+      },
+      "script_beats_observed": [
+        "Mở đầu (thumbnail lưới) — Ẩn dụ trực quan người que đứng tầng 5 gọi khách đang ở ngoài đường ('GỌI KHÁCH HÀNG ĐANG Ở NGOÀI ĐƯỜNG')",
+        "~47–48% — Hoạt hình giải thích trên nền vàng kem: tòa nhà 5 tầng, mũi tên đứt nét dọc 'RẤT XA' + sóng nhiễu tạp âm ('KHOẢNG CÁCH RẤT XA' → 'DƯỚI ĐƯỜNG RẤT NHIỀU TẠP ÂM'), kèm mặt tròn góc trên phải",
+        "~95% — Cắt sang full-screen talking-head trong xe hơi (áo hồng đất, micro DJI màu cam cài cổ áo) chốt thông điệp nhắm chủ DN/chuyên gia: 'ĐA SỐ ĐÃ CÓ CHUYÊN MÔN'"
+      ],
+      "visual_and_pacing": "Video giải thích chuyên sâu dài ~3 phút (~179s), dùng đồ họa ẩn dụ trực quan rất dễ hiểu (khán giả khen 'nói cái hình dung được liền'), tỷ lệ tương tác chất lượng cao (6.5% like, 1.78% save, 1.02% share) nhưng mới đăng 22h và tệp B2B hẹp (#doanhnghiep) + thời lượng dài khiến lượt xem đại chúng thấp.",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng kể chuyện/giảng giải điềm đạm thu qua micro cài áo DJI trong xe hơi, phù hợp nhịp giải thích chậm rãi ~3 phút."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Hà Văn Tiếp: Mình tiếp cận khách hàng bằng xây kênh cá nhán, tự nhiên, chưa quảng cáo! (0 likes)",
+          "Trịnh Minh Quang: chị hiểu cách em nói em chia sẻ rất hay rất ý nghĩa.từ cách chia sẻ đến khi mình bắt tay vào thực hiện thì còn phải học thật nhiều 💋💋💃💃✍️ (0 likes)",
+          "Trang Trải Nghiệm 😌: Tâm ví dụ hay quá , nói cái hình dung được liền 😁 (0 likes)",
+          "ĐaĐaBùi: Cảm ơn bạn đã chia sẻ kinh nghiệm quí báu giúp tôi 🥰🥰🥰 (1 like, 1 reply)",
+          "Phạm Thanh Hải: Đang chạy quảng cáo là chính😅 (0 likes)",
+          "toi: gần sớm ạ 🥰🥰🥰 (0 likes)",
+          "Mình là nguyễn tư: Mình chỉ truyền miệng từ xa Mình cảm ơn bạn nhiều nhé (0 likes)",
+          "NguyenHuong: Cảm ơn em, chia sẻ của em đã gợi ý cho mọi người hiểu những vấn đề bổ ích trong việc xây kênh (0 likes)"
+        ],
+        "main_reaction_groups": [
+          "Khen cách ví dụ siêu dễ hiểu ('Tâm ví dụ hay quá , nói cái hình dung được liền 😁', 'chị hiểu cách em nói em chia sẻ rất hay').",
+          "Chủ doanh nghiệp/người kinh doanh thật tự chia sẻ cách làm hiện tại ('Mình tiếp cận khách hàng bằng xây kênh cá nhân, tự nhiên, chưa quảng cáo!', 'Đang chạy quảng cáo là chính😅', 'Mình chỉ truyền miệng từ xa')."
+        ],
+        "comment_triggers": "Ẩn dụ trực quan dễ hiểu + đánh trúng tệp chủ kinh doanh khiến họ chia sẻ bối cảnh thật của doanh nghiệp mình.",
+        "creator_interaction": "Chưa quan sát thấy nhãn creator-like ở top bình luận (video mới đăng 22 giờ)."
+      },
+      "viral_reasons": [
+        "Tỷ lệ tương tác chất lượng cực cao dù view còn thấp: 6.50% like (102/1569), 1.78% save (28), 1.02% share (16), và 100% bình luận đúng tệp khách hàng tiềm năng (chủ DN/người kinh doanh)."
+      ],
+      "weaknesses": [
+        "View mới dừng ở 1,569 (OS=0.03x) do đồng thời 3 yếu tố: (1) mới đăng 22 giờ; (2) thời lượng dài (~179s / 3 phút); (3) tệp B2B hẹp (#doanhnghiep) + khung mở đầu dạng đồ họa/slide thay vì gương mặt/giao diện TikTok tự nhiên."
+      ],
+      "key_lessons": [
+        "Ẩn dụ trực quan bằng hoạt hình tối giản (tòa nhà 5 tầng — khoảng cách — tạp âm) cực kỳ hiệu quả để giúp khách hàng B2B hiểu nhanh khái niệm trừu tượng và tăng tỷ lệ lưu/thích (>6%).",
+        "Không đánh giá vội video mới đăng <48h, đồng thời chấp nhận video B2B sâu 3 phút sẽ có reach nhỏ hơn nhưng chất lượng lead cao hơn hẳn."
+      ]
+    },
+    {
+      "grid_index": 4,
+      "batch_group": "Mới nhất #2 (Brand/AI)",
+      "distribution_type": "niche_b2b_paid_partnership",
+      "metadata_and_metrics": {
+        "video_id": "7710227805929262354",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7710227805929262354",
+        "posted_date": "5d ago",
+        "duration_sec": 296,
+        "caption": "Đừng hỏi AI nữa, giao việc cho nó. Dùng thử Odoo trong bio Tâm @Odoo #tamthefox#tamthefoxm #AI #tudonghoa",
+        "hashtags": [
+          "#tamthefox",
+          "#tamthefoxm",
+          "#AI",
+          "#tudonghoa"
+        ],
+        "is_pinned": false,
+        "views_text": "11.5K",
+        "views": 11500,
+        "likes_text": "148",
+        "likes": 148,
+        "comments_count_text": "28",
+        "comments_count": 28,
+        "bookmarks_text": "50",
+        "bookmarks": 50,
+        "shares_text": "28",
+        "shares": 28,
+        "outlier_score": 0.2,
+        "labels_or_anchors": "Paid partnership; @Odoo mention (không có nhãn AI-generated hay CapCut)",
+        "engagement_rates_pct": {
+          "like_rate": 1.29,
+          "comment_rate": 0.24,
+          "bookmark_rate": 0.43,
+          "share_rate": 0.24
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi studio kệ sách đèn tím (áo đen, kính), phần nửa trên màn hình bật thẻ mô phỏng chat 'Trợ lý AI [minh họa]' minh họa cách dùng AI thủ công sai lầm.",
+        "text_hook": "Thẻ chat 'Trợ lý AI [minh họa]': 'Viết giúp mình email chăm khách' → 3 bước 'Hỏi / Chép câu trả lời / Tự tay làm'; phụ đề: 00:06 'hỏi, lấy câu trả lời' → 00:08 'rồi tự làm theo'.",
+        "audio_hook": "Phản biện thói quen dùng AI thông thường ('Đừng hỏi AI nữa, giao việc cho nó' — qua phụ đề 00:06–00:08: 'hỏi, lấy câu trả lời... rồi tự làm theo')."
+      },
+      "topic_and_angle": {
+        "topic_category": "Tự động hóa công việc bằng AI + Odoo cho doanh nghiệp nhỏ / công ty 1 người",
+        "angle": "Phản biện thói quen dùng AI thủ công ('Đừng hỏi AI nữa, giao việc cho nó') và công khai minh bạch chi phí thật (~20 đô AI + gói Custom, giới hạn 200 thư/ngày).",
+        "emotional_triggers": [
+          "Hiệu suất / tiết kiệm nhân sự ('Không thuê thêm người')",
+          "Tò mò xem thực tế ('Tí nữa xem tận mắt')",
+          "Tin cậy nhờ minh bạch chi phí"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Studio ánh sáng tím + thẻ mô phỏng chat 'Trợ lý AI [minh họa]' bóc tách 3 bước thủ công nhàm chán ('Hỏi → Chép câu trả lời → Tự tay làm').",
+        "development": "Dẫn dắt theo thanh phân chương 1→5 phía trên ('② Không thuê thêm người') kết hợp open-loop teaser ('👁 Tí nữa xem tận mắt').",
+        "climax_or_demo": "Chương '⑤ Tốn bao nhiêu' trưng bảng so sánh & chi phí minh bạch cho 'công ty một người' (không cần biết code, phí AI ~20 đô, giới hạn 200 thư/ngày).",
+        "ending_cta": "Caption kêu gọi trực tiếp 'Dùng thử Odoo trong bio Tâm @Odoo'."
+      },
+      "script_beats_observed": [
+        "00:06–00:08 — Bóc tách thói quen dùng AI thủ công ('Hỏi → Chép câu trả lời → Tự tay làm') bằng khung chat minh họa trực quan",
+        "02:13 (~45%) — Thanh tiến trình phân chương phía trên '② Không thuê thêm người' + pill giữ chân '👁 Tí nữa xem tận mắt' ('Tí nữa mình cho bạn coi') + icon '!' đỏ bên trái",
+        "04:19 (~88%) — Chương '⑤ Tốn bao nhiêu' với 2 thẻ minh bạch chi phí & giới hạn thực tế ('Giới hạn gửi thư Odoo: 200 thư/ngày', 'Phí AI ~20 đô + gói Custom, không cần biết code'), facecam tròn góc dưới trái"
+      ],
+      "visual_and_pacing": "Video B2B/tài trợ cực dài (~296s / gần 5 phút!), dựng bài bản kiểu YouTube mini-review có thanh chương 1→5, open-loop teaser giữa clip ('Tí nữa xem tận mắt') và bảng chi phí minh bạch. View thấp (11.5K) do độ dài 5 phút + nhãn Paid partnership + chủ đề ERP/Odoo ngách doanh nghiệp, nhưng kéo được khách hàng hỏi khám kênh trực tiếp ở bình luận.",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng thuyết trình chuyên gia rành mạch, tốc độ vừa phải cho video phân tích gần 5 phút."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Kiều Thích Mặc Đẹp🎀: Mong a khám kênh giúp em xem em đi ngành thời trang vậy đúng chưa ạ cần thay đổi gì k ạ (0 likes)",
+          "Thị in: cảm ơn đã hướng dẫn (0 likes)",
+          "Trịnh Minh Quang: Em chia sẻ rất hay rất bổ ích tuyệt vời lắm Em chị thường xuyên trao đổi cùng IA (0 likes)",
+          "Thiên Hoàng: đúng là chuyên gia,phân tích từng bước rất tỉ mỉ... (1 like, Creator liked, 1 reply)",
+          "hahung: tôi ko và chưa hiểu va nhiều lúc vao dc lúc vào ko vào dc... (0 likes, 1 reply)",
+          "Cửa hàng Hà Bành: Cảm ơn bạn nhiều nhiều nhé (1 like)",
+          "Hùng1979: Anh cẩm ơn em đã chia sẽ (1 like)",
+          "PHÚ QUÝ @ 🇻🇳: cảm ơn anh nhiều lắm ạ (1 like, 1 reply)"
+        ],
+        "main_reaction_groups": [
+          "Lead chuyển đổi trực tiếp hỏi dịch vụ cốt lõi của Tâm ('Mong a khám kênh giúp em xem em đi ngành thời trang vậy đúng chưa ạ cần thay đổi gì k ạ').",
+          "Khán giả lớn tuổi/chủ kinh doanh khen sự tỉ mỉ ('đúng là chuyên gia, phân tích từng bước rất tỉ mỉ') hoặc chia sẻ khó khăn kỹ thuật khi dùng công cụ."
+        ],
+        "comment_triggers": "Cách phân tích minh bạch chi phí/giới hạn (không tâng bốc mù quáng) tạo độ tin cậy chuyên gia rất cao.",
+        "creator_interaction": "Chủ kênh thả tim và trả lời các bình luận hỏi/khen (Thiên Hoàng, hahung, PHÚ QUÝ)."
+      },
+      "viral_reasons": [
+        "Dù chỉ 11.5K views, kéo trực tiếp khách hàng hỏi 'khám kênh' và xây uy tín cực tốt với nhãn hàng B2B (@Odoo) nhờ minh bạch cả giới hạn sản phẩm."
+      ],
+      "weaknesses": [
+        "Thời lượng quá dài cho định dạng lướt nhanh TikTok (~296s / gần 5 phút), có nhãn 'Paid partnership' và chủ đề ERP/Automation rất ngách → view thấp hơn trung vị (OS=0.20x) và tỷ lệ like/view thấp (1.29%)."
+      ],
+      "key_lessons": [
+        "Với video dài >2 phút, áp dụng 'Thanh tiến trình phân chương (①→⑤)' + 'Open-loop teaser pill' ('👁 Tí nữa xem tận mắt') ở giữa clip giúp giữ người xem có nhu cầu thật ở lại đến cuối.",
+        "Minh bạch nhược điểm/chi phí thật trong video tài trợ B2B làm tăng mạnh niềm tin chuyên gia và tạo lead chéo sang dịch vụ tư vấn cá nhân."
+      ]
+    },
+    {
+      "grid_index": 5,
+      "batch_group": "Mới nhất #3 (Series)",
+      "distribution_type": "mid_performing_series",
+      "metadata_and_metrics": {
+        "video_id": "7708239921730817300",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7708239921730817300",
+        "posted_date": "11-15",
+        "duration_sec": 186,
+        "caption": "Thao túng thuật toán phần 2 #videomarketing #tamthefox #thuonghieucanhan #xaykenh #tuongtac",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#thuonghieucanhan",
+          "#xaykenh",
+          "#tuongtac"
+        ],
+        "is_pinned": false,
+        "views_text": "35.4K",
+        "views": 35400,
+        "likes_text": "1985",
+        "likes": 1985,
+        "comments_count_text": "408",
+        "comments_count": 408,
+        "bookmarks_text": "468",
+        "bookmarks": 468,
+        "shares_text": "349",
+        "shares": 349,
+        "outlier_score": 0.61,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 5.61,
+          "comment_rate": 1.15,
+          "bookmark_rate": 1.32,
+          "share_rate": 0.99
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong ô tô (áo đen, kính); tạo cú đánh thị giác ở giây đầu bằng ánh chớp phủ màu đỏ kịch tính kèm cử chỉ tay mạnh.",
+        "text_hook": "00:04 ánh sáng thường 'THẬT SỰ BẠN CẦN' → 00:06 phủ tint đỏ kịch tính 'THAO TÚNG THUẬT TOÁN MỘT TÍ'.",
+        "audio_hook": "Qua phụ đề 00:04–00:06: 'THẬT SỰ BẠN CẦN... THAO TÚNG THUẬT TOÁN MỘT TÍ' (dùng từ ngữ gây tò mò mạnh nhưng giảm độ sốc bằng 'một tí')."
+      },
+      "topic_and_angle": {
+        "topic_category": "Hiểu cơ chế tương tác & thuật toán TikTok (Series phần 2)",
+        "angle": "Tiêu đề kích thích tò mò mạnh ('Thao túng thuật toán phần 2') kết hợp bằng chứng view triệu cho chuyên gia.",
+        "emotional_triggers": [
+          "Tò mò bí mật thuật toán",
+          "Khao khát nhiều tương tác",
+          "Niềm tin qua bằng chứng triệu view"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Ngồi trong ô tô, 00:04 ánh sáng thường 'THẬT SỰ BẠN CẦN' → 00:06 chớp phủ ánh sáng đỏ kịch tính + cử chỉ tay mạnh 'THAO TÚNG THUẬT TOÁN MỘT TÍ'.",
+        "development": "Đánh số mục rõ bằng vòng tròn vàng ('2 — NHIỀU NGƯỜI TƯƠNG TÁC') kèm thẻ bằng chứng '2,3Tr | 2,9Tr | 2.2M — CHO CHUYÊN GIA'.",
+        "climax_or_demo": "Kết nối cơ chế tương tác với việc định vị nội dung có giá trị học tập cho khán giả.",
+        "ending_cta": "Chỉ tay nhấn mạnh hành động định hướng kênh ('KÊNH BẠN MUỐN HỌC KỸ NĂNG')."
+      },
+      "script_beats_observed": [
+        "00:04–00:06 — Hook gây tò mò có hiệu ứng chớp tint đỏ ('THẬT SỰ BẠN CẦN... THAO TÚNG THUẬT TOÁN MỘT TÍ')",
+        "01:25 (~46%) — Đánh số từng luận điểm bằng vòng tròn vàng '2' + dòng lớn 'NHIỀU NGƯỜI TƯƠNG [TÁC]' và chèn bằng chứng số view '2,3Tr | 2,9Tr | 2.2M — CHO CHUYÊN GIA'",
+        "02:44 (~88%) — Chỉ tay nhấn mạnh hành động cốt lõi: 'KÊNH BẠN MUỐN HỌC KỸ NĂNG'"
+      ],
+      "visual_and_pacing": "Video series chuyên sâu ~3 phút (~186s) quay trong xe hơi, dùng hiệu ứng flash đỏ tại từ khóa đắt + đánh số vòng tròn vàng rõ ràng + social proof con số triệu view. Tỷ lệ like cực tốt (5.6%) và 408 bình luận, nhưng vì là 'phần 2' + thời lượng 3 phút nên view tổng (35.4K) dưới trung vị kênh (58K).",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng nói có cao trào nhấn nhá ăn khớp với hiệu ứng flash đỏ tại câu hook."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "NGUYỆT PHẠM: e mới xây kênh (0 likes)",
+          "Bim Bé Đẹp: Cám ơn anh đã chia sẻ ạ (0 likes)",
+          "Mlem Mlem: Rất hữu ích. Cám ơn bạn (0 likes)",
+          "vayxinh199402: cảm ơn anh, rất hay (0 likes)",
+          "Huy tập tành🌽🛒🛍️: hay quá a ạ (0 likes)",
+          "Tiệm ăn vặt Hà Hoà: hữu ích quá. Cảm ơn bạn (0 likes)",
+          "Sang làm Nhà Ở Xã Hội: 100 view 😆😆😆 (0 likes)",
+          "Phạm Hạnh: cám ơn bạn đã chia sẻ rất hữu ích giúp mình học hỏi nhiều hơn từ bạn (0 likes)"
+        ],
+        "main_reaction_groups": [
+          "Người mới xây kênh vào cảm ơn & báo cáo tình trạng kênh ('e mới xây kênh', '100 view 😆😆😆', '2-3k views có ổn ko ạh').",
+          "Khán giả quen tương tác thân mật với ngoại hình creator ('Lâu k thấy a nay trộm vía a tròn zo😂')."
+        ],
+        "comment_triggers": "Tỷ lệ comment/view khá cao (1.15%, 408 comments) nhờ chạm đúng băn khoăn view/tương tác của người đang xây kênh.",
+        "creator_interaction": "Có trả lời một số bình luận hỏi tình trạng view (Phở 12, An Minimark — View 1 reply)."
+      },
+      "viral_reasons": [
+        "Tỷ lệ tương tác rất khỏe trên 35.4K views: 5.61% like (1,985), 1.15% comment (408), 1.32% save (468), 0.99% share (349) — cho thấy nội dung chất lượng cao với khán giả xem đến cuối."
+      ],
+      "weaknesses": [
+        "Đạt 35.4K views (OS=0.61x, dưới trung vị 58K) do hai rào cản rõ rệt: (1) gắn mác 'phần 2' làm người lạ thấy thiếu ngữ cảnh; (2) thời lượng khá dài (~186s / 3 phút 06 giây)."
+      ],
+      "key_lessons": [
+        "Hiệu ứng 'Red Flash Tint' (phủ chớp đỏ 0.5–1 giây) đúng từ khóa cao trào trong 3–6 giây đầu là kỹ thuật visual interrupt cực tốt khi quay talking-head một góc máy trong ô tô.",
+        "Hạn chế đặt tên 'Phần 2 / Phần 8' ở caption nếu muốn kéo khán giả lạnh — hãy viết tiêu đề tự đứng độc lập và chỉ ghi số phần ở phụ/playlist."
+      ]
+    },
+    {
+      "grid_index": 6,
+      "batch_group": "Mới nhất #4 (Listicle)",
+      "distribution_type": "solid_above_median_listicle",
+      "metadata_and_metrics": {
+        "video_id": "7707441442339163413",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7707441442339163413",
+        "posted_date": "11-13",
+        "duration_sec": 97,
+        "caption": "5 lý do dưới 200 lượt xem #videomarketing #tamthefox #thuonghieucanhan #xaykenh #200views",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#thuonghieucanhan",
+          "#xaykenh",
+          "#200views"
+        ],
+        "is_pinned": false,
+        "views_text": "74.2K",
+        "views": 74200,
+        "likes_text": "2607",
+        "likes": 2607,
+        "comments_count_text": "329",
+        "comments_count": 329,
+        "bookmarks_text": "853",
+        "bookmarks": 853,
+        "shares_text": "465",
+        "shares": 465,
+        "outlier_score": 1.28,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 3.51,
+          "comment_rate": 0.44,
+          "bookmark_rate": 1.15,
+          "share_rate": 0.63
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong ô tô (áo navy, micro DJI màu cam cài ngực); ngay 00:03 bật hiệu ứng chớp tint đỏ + vòng tròn số '1' màu vàng có mũi tên chỉ.",
+        "text_hook": "00:02 'THÌ CÓ THỂ BẠN ĐANG MẮC' → 00:03 chớp đỏ + số '1' 'BẠN ĐANG MẮC NHỮNG' (chạm thẳng nỗi đau 200 views).",
+        "audio_hook": "Qua phụ đề 00:02–00:03: '...THÌ CÓ THỂ BẠN ĐANG MẮC... BẠN ĐANG MẮC NHỮNG...'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Chẩn đoán 5 lý do kênh bị kẹt dưới 200 lượt xem",
+        "angle": "Listicle bắt bệnh trực diện nỗi đau phổ biến nhất + bóc lỗi dùng sai hashtag chung chung (#xuhướng, #viral, #hot).",
+        "emotional_triggers": [
+          "Nỗi đau 'trúng tim đen' (200 views)",
+          "Học lỗi sai để tránh ngay",
+          "Động lực kiên trì"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "00:02 'THÌ CÓ THỂ BẠN ĐANG MẮC' → 00:03 chớp tint đỏ + vòng tròn vàng số '1' có mũi tên chỉ ('BẠN ĐANG MẮC NHỮNG') — vào ngay lý do 1 trong 3 giây đầu!",
+        "development": "Đi qua từng lý do, chèn thẻ pill trắng minh họa trực quan lỗi cụ thể ('VÍ DỤ NHƯ' / '#xuhướng' / '#viral' / '#hot').",
+        "climax_or_demo": "Chỉ rõ những thói quen tưởng vô hại nhưng làm thuật toán hiểu sai tệp người xem.",
+        "ending_cta": "Kết bằng lời động viên cảm xúc ở 01:27 ('HÃY KIÊN TRÌ LÊN')."
+      },
+      "script_beats_observed": [
+        "00:02–00:03 — Hook listicle đánh nỗi đau 'dưới 200 lượt xem', vào thẳng lỗi số 1 ngay giây thứ 3 kèm flash đỏ",
+        "00:44 (~45%) — Trực quan hóa lỗi sai bằng các thẻ pill trắng xếp dọc trên khung hình: 'VÍ DỤ NHƯ' / '#xuhướng' / '#viral' / '#hot' (cảnh báo hashtag rác/quá chung chung)",
+        "01:27 (~89%) — Kết bằng thông điệp động viên tích cực: 'HÃY KIÊN TRÌ LÊN'"
+      ],
+      "visual_and_pacing": "Listicle 5 điểm độ dài vừa phải (~97s) đánh trúng nỗi đau phổ thông nhất (kẹt 200 view), vào ngay mục '1' ở giây thứ 3 + dùng thẻ pill minh họa ví dụ hashtag sai giúp người xem dễ nhớ & lưu lại (853 bookmarks, 74.2K views, OS=1.28x — vượt hẳn các video mới khác dài 3–5 phút).",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng dứt khoát, chia nhịp listicle rõ ràng, giữ năng lượng đều suốt ~97 giây."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "2k8 tập làm affiliate: Nhận mà kco ai để ý😅 (0 likes)",
+          "Ngọc Cao: cảm ơn bạn chia sẻ ❤️❤️tuyệt vời ❤️ngày mới tốt lành nhé bạn ❤️ (1 like, Creator liked)",
+          "Thị Hiền: Em cũng tập xây kênh (0 likes)",
+          "Hoàng Phương Nam: Video này cần được lưu lại để đời sau xem! (0 likes)",
+          "DucDuyAFF🛍️: xu hương (0 likes)",
+          "_MINH THIỆN_93 🇻🇳🇩🇪 ✅: Hên quá được 201 views rồi 😁😁 (10 likes, 3 replies)",
+          "Cải Tía Gan Lì: Nghĩ sao mà mắc kẹt ở 200, tui kẹt khúc 99 á😅 (6 likes)",
+          "❤️Thuỷ shop - Gia dụng 🌸❤️☘️: không phải kênh nào cũng có nút story phải không em (2 likes)"
+        ],
+        "main_reaction_groups": [
+          "Khán giả tự thú hài hước về số view của mình ('Hên quá được 201 views rồi 😁😁' — 10 likes; 'Nghĩ sao mà mắc kẹt ở 200, tui kẹt khúc 99 á😅' — 6 likes).",
+          "Cam kết lưu xem lại ('Video này cần được lưu lại để đời sau xem!').",
+          "Hỏi mở rộng sang tính năng khác ('không phải kênh nào cũng có nút story phải không em')."
+        ],
+        "comment_triggers": "Con số '200 lượt xem' tạo hiệu ứng tự soi chiếu và khoe/than số view cực tự nhiên ở bình luận.",
+        "creator_interaction": "Chủ kênh thả tim bình luận cảm ơn (Ngọc Cao — Creator liked)."
+      },
+      "viral_reasons": [
+        "Video tốt nhất trong loạt video mới nhất (74.2K views, OS=1.28x, 853 bookmarks = 1.15% save rate, 3.51% like rate).",
+        "Vào thẳng lỗi số '1' ngay giây thứ 3 kèm hiệu ứng chớp đỏ + thẻ ví dụ trực quan (#xuhướng, #viral, #hot) giúp người xem thấy ngay sai lầm mình đang mắc.",
+        "Độ dài vừa phải (~97s) ngắn gần bằng một nửa các video mới khác (179–296s) nên tỷ lệ xem hết tốt hơn rõ rệt."
+      ],
+      "weaknesses": [
+        "Chưa bứt phá lên mốc triệu view (74.2K vs 6.6M ở video #114 cùng chủ đề 200 views) vì dừng ở liệt kê 5 lỗi tổng quát thay vì demo 1 thao tác/tính năng cụ thể trên giao diện TikTok."
+      ],
+      "key_lessons": [
+        "Khi làm dạng Listicle ('5 lý do...'), hãy đánh số '1' xuất hiện NGAY trong 3 giây đầu kèm hiệu ứng chuyển sắc/chớp nhẹ — không dài dòng giới thiệu.",
+        "Giữ độ dài listicle quanh 60–95 giây để đạt điểm cân bằng giữa chiều sâu kiến thức và tỷ lệ hoàn thành."
+      ]
+    },
+    {
+      "grid_index": 9,
+      "batch_group": "Đối chiếu view thấp (Mới)",
+      "distribution_type": "bottom_contrast_low_reach",
+      "metadata_and_metrics": {
+        "video_id": "7705609470486875412",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7705609470486875412",
+        "posted_date": "11-8",
+        "duration_sec": 37,
+        "caption": "Sao bạn vẫn chưa quay video? #videomarketing #tamthefox #thuonghieucanhan #xaykenh #quayvideo",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#thuonghieucanhan",
+          "#xaykenh",
+          "#quayvideo"
+        ],
+        "is_pinned": false,
+        "views_text": "6065",
+        "views": 6065,
+        "likes_text": "363",
+        "likes": 363,
+        "comments_count_text": "64",
+        "comments_count": 64,
+        "bookmarks_text": "106",
+        "bookmarks": 106,
+        "shares_text": "121",
+        "shares": 121,
+        "outlier_score": 0.1,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 5.99,
+          "comment_rate": 1.06,
+          "bookmark_rate": 1.75,
+          "share_rate": 2.0
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Khung nền đồ họa chấm bi trắng ngà có đường nét đứt cong; hình người nói trong xe hơi bị thu nhỏ đặt trong khung chữ nhật viền tím giữa trang (cảm giác như slide/poster quảng cáo thay vì video TikTok tự nhiên).",
+        "text_hook": "Chữ tím đậm in nghiêng bên dưới khung mặt: 00:01 'vẫn chưa' → 00:02 'vẫn chưa [quay?]' (chậm lộ thông điệp chính, không có banner lợi ích rõ ràng).",
+        "audio_hook": "Qua phụ đề 00:01–00:02: '...vẫn chưa... vẫn chưa [quay?]'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Tâm lý ngại quay video / sợ người quen thấy",
+        "angle": "Đồng cảm & gọi tên đúng nỗi sợ ẩn giấu (gạch bỏ 5 nỗi sợ bề mặt để chốt nỗi sợ thật: 'người quen thấy').",
+        "emotional_triggers": [
+          "Đồng cảm sâu ('trúng tim đen')",
+          "Động viên tinh thần"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Nền đồ họa chấm bi trắng ngà + mặt người nói thu nhỏ trong khung chữ nhật viền tím; 00:01–00:02 chữ tím phía dưới hiện chậm ('vẫn chưa' → 'vẫn chưa [quay?]').",
+        "development": "00:18 chuyển sang thẻ danh sách chữ toàn màn hình gạch ngang 5 lý do ('nói vấp', 'không ai coi', 'mất uy tín', 'không ai mua', 'bị chê') → dừng sáng ở '● người quen thấy'.",
+        "climax_or_demo": "Gọi đúng tên rào cản tâm lý thật của người mới.",
+        "ending_cta": "00:33 bật khung mặt kèm nhãn đỏ '● REC' + CTA 'chia sẻ video này cho người'."
+      },
+      "script_beats_observed": [
+        "00:01–00:02 — Mở đầu chậm bằng đồ họa khung viền tím + chữ 'vẫn chưa...'",
+        "00:18 (~49%) — Chuyển sang thẻ danh sách chữ toàn màn hình: badge tím 'sợ' + tiêu đề 'người quen thấy?', gạch ngang loạt nỗi sợ phụ ('nói vấp', 'không ai coi', 'mất uy tín', 'không ai mua', 'bị chê') và chấm sáng vào nỗi sợ thật '● người quen thấy'",
+        "00:33 (~90%) — Trở lại khung mặt kèm nhãn đỏ '● REC' góc trên trái và mũi tên nét đứt chỉ lên trên + CTA 'chia sẻ video này cho người'"
+      ],
+      "visual_and_pacing": "Dù ngắn gọn (~37s), thiết kế đồ họa rất mượt và tỷ lệ tương tác tốt (6.0% like, 2.0% share), video chỉ đạt 6,065 views (OS=0.10x) do 3 điểm yếu điển hình: (1) giao diện nền chấm bi đóng khung quá 'slide/quảng cáo' làm giảm lực dừng lướt tự nhiên ở 0–3s; (2) text 0–2s quá ngắn/chậm vào trọng tâm ('vẫn chưa'); (3) chủ đề động lực/tâm lý không tạo hành động thực thi ngay hay hiệu ứng tìm kiếm như mẹo tính năng TikTok.",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng tâm sự nhẹ nhàng, đồng cảm (không tạo cao trào khẩn cấp hay hài hước)."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Hùng Bụi: em cũng vậy🥺 (1 like, Creator liked)",
+          "HOANG TGP: Cảm ơn bạn đã tiếp thêm động lực (0 likes)",
+          "Cô giáo Mầm Non: tui đang Sợ (1 like, Creator liked)",
+          "Mỹ Linh Tích Cực: Đúng rồi bạn ơi (0 likes)",
+          "phan Hạnh: Dạ. Thưa Thầy... Con rất khó nói Dạ (1 like, Creator liked)",
+          "Tôi Của Ngày Mai ✅: Mới làm kênh cứ vào kênh xem view hoài lun 🥺 (1 like)",
+          "Mr.Thong-May Academy: cố gắng lên các bn (1 like)",
+          "Nhàn Phạm: Đúng quá ad ơi, chưa vượt qua nổi sợ 😁 (1 like)"
+        ],
+        "main_reaction_groups": [
+          "Đồng cảm cảm xúc từ người mới ('em cũng vậy🥺', 'tui đang Sợ', 'Đúng quá ad ơi, chưa vượt qua nổi sợ 😁', 'Mới làm kênh cứ vào kênh xem view hoài lun 🥺')."
+        ],
+        "comment_triggers": "CTA chia sẻ cuối video + chạm nỗi sợ thật tạo tỷ lệ like (5.99%) và share (2.00%) rất cao trên nhóm nhỏ đã xem.",
+        "creator_interaction": "Chủ kênh thả tim rất đều (3/5 bình luận top đầu có Creator liked)."
+      },
+      "viral_reasons": [
+        "Tỷ lệ tương tác trên tệp người xem nhỏ rất ấn tượng (5.99% like, 1.75% save, 2.00% share) nhờ thẻ gạch bỏ nỗi sợ cực chạm tâm lý."
+      ],
+      "weaknesses": [
+        "Chỉ đạt 6,065 views (OS=0.10x) dù chỉ dài 37s và dựng đồ họa đẹp — nguyên nhân trực tiếp nằm ở 0–3 giây đầu: (1) Bố cục nền chấm bi đóng khung viền tím trông giống slide/quảng cáo hơn là video TikTok tự nhiên (ad-blindness); (2) Text 0–2s hiện quá ít chữ ('vẫn chưa'), thiếu lời hứa lợi ích rõ ràng; (3) Chủ đề tâm lý động viên không có hành động thực thi/công cụ cụ thể để kéo thuật toán mở rộng tệp lạnh."
+      ],
+      "key_lessons": [
+        "CẢNH BÁO 'Bẫy thiết kế quá đẹp': Tránh mở đầu bằng nền đồ họa/poster đóng khung thu nhỏ mặt người nói — trông giống quảng cáo sẽ làm tụt mạnh tỷ lệ dừng lướt (3s hold rate) dù tương tác người xem hết rất cao.",
+        "Trong 0–2 giây đầu phải hiện trọn vẹn vấn đề/lợi ích (không cắt lẻ kiểu 'vẫn chưa...')."
+      ]
+    },
+    {
+      "grid_index": 37,
+      "batch_group": "Đối chiếu view thấp (Vlog)",
+      "distribution_type": "bottom_contrast_low_reach",
+      "metadata_and_metrics": {
+        "video_id": "7675998713914920213",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7675998713914920213",
+        "posted_date": "8-20",
+        "duration_sec": 389,
+        "caption": "Vlog 1 ngày đào tạo #videomarketing #tamthefox #thuonghieucanhan #daotao #thanhhoa",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#thuonghieucanhan",
+          "#daotao",
+          "#thanhhoa"
+        ],
+        "is_pinned": false,
+        "views_text": "5010",
+        "views": 5010,
+        "likes_text": "162",
+        "likes": 162,
+        "comments_count_text": "43",
+        "comments_count": 43,
+        "bookmarks_text": "38",
+        "bookmarks": 38,
+        "shares_text": "21",
+        "shares": 21,
+        "outlier_score": 0.09,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 3.23,
+          "comment_rate": 0.86,
+          "bookmark_rate": 0.76,
+          "share_rate": 0.42
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi trong ô tô (áo đen, kính, đeo dây an toàn, micro cài áo có bông lọc gió), chèn icon máy bay màu vàng nhỏ; phong cách nhật ký di chuyển đời thường không có cao trào thị giác.",
+        "text_hook": "Phụ đề dạng pill màu cam: ~00:09 'giờ mình ra sân bay' → ~00:10 'Trải nghiệm phòng chờ thương gia' (kể chuyện cá nhân, không nêu lợi ích/nỗi đau cho người xem).",
+        "audio_hook": "Qua phụ đề cứng đầu clip: kể lịch trình cá nhân 'giờ mình ra sân bay... Trải nghiệm phòng chờ thương gia'."
+      },
+      "topic_and_angle": {
+        "topic_category": "Vlog hậu trường 1 ngày đi đào tạo tại Thanh Hóa",
+        "angle": "Nhật ký cá nhân / xây dựng bằng chứng năng lực thực tế ('CEO THEFOX', hội trường Sapphire) cho fan trung thành.",
+        "emotional_triggers": [
+          "Gần gũi đời thường",
+          "Uy tín diễn giả/đào tạo"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Ngồi trong ô tô cài dây an toàn kể lịch trình di chuyển ('giờ mình ra sân bay' → 'Trải nghiệm phòng chờ thương gia') kèm icon máy bay/ngôi sao vàng.",
+        "development": "Quay cảnh học viên tập diễn/đọc kịch bản trong lớp học ('Nói chung là cũng đuối').",
+        "climax_or_demo": "Quay standee hội trường 'The Agent X — CEO THEFOX' chứng minh hoạt động đào tạo doanh nghiệp thực tế.",
+        "ending_cta": "Kết nhật ký nhẹ nhàng, không có CTA hành động cụ thể."
+      },
+      "script_beats_observed": [
+        "~00:09–00:10 — Nhật ký xuất phát trong xe hơi: 'giờ mình ra sân bay' → 'Trải nghiệm phòng chờ thương gia'",
+        "~02:55 (~45%) — Cảnh hậu trường lớp học đào tạo (học viên cầm kịch bản được quay bằng điện thoại): 'Nói chung là cũng đuối'",
+        "~05:43 (~88%) — Standee điện tử ngoài hội trường 'SAPPHIRE - TẦNG 4' sự kiện 'The Agent X — MỞ KHÓA BẢN LĨNH KHÁC BIỆT' có ảnh 'CEO THEFOX' và icon đồng hồ vàng ('Nói chung là cũng đuối')"
+      ],
+      "visual_and_pacing": "Vlog hậu trường rất dài (~6 phút 29 giây / 389s), nhịp chậm kiểu nhật ký cá nhân, không có hook giải quyết vấn đề đại chúng. Phục vụ xây dựng niềm tin/social proof với fan cứng & khách hàng doanh nghiệp ('CEO THEFOX'), nhưng không phù hợp kéo reach mới (OS=0.09x).",
+      "audio_analysis": {
+        "sound_name": "âm thanh gốc - Tâm Thefox",
+        "audio_role": "Giọng kể vlog tự nhiên kèm tiếng thực tế (micro có bông lọc gió), nhịp chậm rãi."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Luận Trần: Tuyệt quá ạ (2 likes, Creator liked, 1 reply)",
+          "Len💙: Ủa làm gì phải phòng chờ thương gia là phải vào trước khi qua cổng hải quan... (2 likes, Creator liked, 2 replies)",
+          "Mila Valerie: Thật thú vị😅! (2 likes, Creator liked)",
+          "Mimi Luong: Chúc bạn đi thuong lo binh an ✈️✈️✈️ (2 likes, Creator liked, 1 reply)",
+          "Thuy Hoang Phuong: Cuối tuần vui vẻ nhé bạn (1 like)",
+          "Liên Hồng: 🥰🥰🥰🥰 (1 like)",
+          "Quỳnh mạnh @8386: tuyệt vời bạn nhé (1 like)",
+          "LilyYuri: a này hát hay lắm đó mọi người. Vô tình thấy vui quá luôn (1 like, 4 replies)"
+        ],
+        "main_reaction_groups": [
+          "Fan quen chúc sức khỏe/thượng lộ bình an ('Chúc bạn đi thuong lo binh an ✈️', 'Cuối tuần vui vẻ nhé bạn', 'Tuyệt quá ạ').",
+          "Góp ý đính chính chi tiết đời thường ('Ủa làm gì phải phòng chờ thương gia là phải vào trước khi qua cổng hải quan...')."
+        ],
+        "comment_triggers": "Tương tác mang tính cộng đồng thân thiết với fan cũ (43 comments), không kéo được khán giả mới.",
+        "creator_interaction": "Chủ kênh thả tim 4/4 bình luận top đầu và trả lời (kể cả bình luận góp ý về phòng chờ sân bay)."
+      },
+      "viral_reasons": [
+        "Hoàn thành tốt vai trò phụ: nuôi dưỡng niềm tin & chứng minh thực lực đào tạo offline cho tệp fan/khách hàng đã theo dõi kênh."
+      ],
+      "weaknesses": [
+        "Chỉ đạt 5,010 views (OS=0.09x) vì vi phạm 3 quy luật kéo reach: (1) Quá dài (~389s / 6 phút 29 giây); (2) Mở đầu kể chuyện 'tôi đi sân bay' (me-centric) thay vì lợi ích cho người xem (you-centric); (3) Không có xung đột/câu hỏi tò mò ở 0–3s."
+      ],
+      "key_lessons": [
+        "Không dùng định dạng 'Vlog 1 ngày của tôi' khi mục tiêu là kéo lượt xem/người theo dõi mới — khán giả lạnh không quan tâm lịch trình cá nhân trước khi họ nhận giá trị.",
+        "Nếu muốn khoe bằng chứng đào tạo offline mà vẫn có view, hãy trích 1 tình huống học viên sửa kịch bản thực tế dài 45–60s thay vì làm vlog 6 phút."
+      ]
+    },
+    {
+      "grid_index": 77,
+      "batch_group": "Đối chiếu view thấp (Mini-game)",
+      "distribution_type": "bottom_contrast_low_reach",
+      "metadata_and_metrics": {
+        "video_id": "7628092950479654165",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7628092950479654165",
+        "posted_date": "4-13",
+        "duration_sec": 27,
+        "caption": "Đoán từ xây kênh 2 #videomarketing #tamthefox #xaykenh #leanontiktok",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#xaykenh",
+          "#leanontiktok"
+        ],
+        "is_pinned": false,
+        "views_text": "6585",
+        "views": 6585,
+        "likes_text": "154",
+        "likes": 154,
+        "comments_count_text": "20",
+        "comments_count": 20,
+        "bookmarks_text": "40",
+        "bookmarks": 40,
+        "shares_text": "23",
+        "shares": 23,
+        "outlier_score": 0.11,
+        "labels_or_anchors": "CapCut · Editing made easy",
+        "engagement_rates_pct": {
+          "like_rate": 2.34,
+          "comment_rate": 0.3,
+          "bookmark_rate": 0.61,
+          "share_rate": 0.35
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Ngồi studio kệ sách mặc lại trang phục Cáo Chồn (áo cam, mũ beret tai cáo nâu), hai tay chắp lại, nhưng nửa trên hiển thị câu đố điền khuyết nhiều chữ đòi hỏi đọc & suy nghĩ.",
+        "text_hook": "00:01 câu đố dài phía trên: 'Để kênh phát triển bền vững và có tệp fan chất lượng? M________' → 00:03 đáp án đùa màu vàng: 'Mua kênh của người khác'.",
+        "audio_hook": "Dùng nhạc nền không lời 'Little Things - Adrián Berenguer' kết hợp biểu cảm ngắn ('Ồ!', 'Hể?') thay vì lời nói trực tiếp giàu thông tin."
+      },
+      "topic_and_angle": {
+        "topic_category": "Mini-game đố vui điền từ về xây kênh (Phần 2)",
+        "angle": "Giải trí kết hợp twist châm biếm ('Mua kênh của người khác') rồi lật sang đáp án nghiêm túc ('ĐỒNG CẢM VỚI NỖI ĐAU CỦA HỌ').",
+        "emotional_triggers": [
+          "Hài hước nhẹ",
+          "Tương tác đố vui"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Mặc lại áo cam + mũ tai cáo trong studio, hiện câu đố điền chữ dài trên đầu ('Để kênh phát triển bền vững và có tệp fan chất lượng? M________') → 00:03 lật đáp án đùa 'Mua kênh của người khác'.",
+        "development": "00:12 câu đố điền chữ 2 ('Để video có tính thuyết phục cao? Đ__________ _____') → đáp án 'ĐỒNG CẢM VỚI NỖI ĐAU CỦA HỌ' + biểu cảm 'Ồ!'.",
+        "climax_or_demo": "00:24 cầm gương tròn biểu cảm 'Hể?' chốt hài.",
+        "ending_cta": "Không có CTA trong video; chủ kênh tự bình luận mồi 'Bạn làm dc mấy cái rồi' (chỉ được 2 likes)."
+      },
+      "script_beats_observed": [
+        "00:01–00:03 — Câu đố điền chữ 1: 'Để kênh phát triển bền vững và có tệp fan chất lượng? M________' → twist đùa 'Mua kênh của người khác'",
+        "00:12 (~45%) — Câu đố điền chữ 2: 'Để video có tính thuyết phục cao? Đ__________ _____' → đáp án nghiêm túc 'ĐỒNG CẢM VỚI NỖI ĐAU CỦA HỌ' + biểu cảm 'Ồ!'",
+        "00:24 (~89%) — Cầm gương tròn có biểu tượng avatar/+ biểu cảm 'Hể?' chốt hài hước; creator tự bình luận mồi 'Bạn làm dc mấy cái rồi'"
+      ],
+      "visual_and_pacing": "Tuy ngắn (~27s) và dùng lại tạo hình mũ tai cáo thương hiệu, video chỉ đạt 6,585 views (OS=0.11x) vì: (1) ma sát nhận thức cao ở 0–3s (câu đố điền chữ dài trên đầu); (2) định dạng 'phần 2' của mini-game tự phát không khớp nhu cầu tìm kiếm/giải quyết nỗi đau ngay; (3) ít giọng nói dẫn dắt trực tiếp, thiên về diễn kịch câm theo nhạc.",
+      "audio_analysis": {
+        "sound_name": "Little Things - Adrián Berenguer",
+        "audio_role": "Nhạc nền không lời vui nhộn + tiếng cảm thán ngắn ('Ồ!', 'Hể?'), thiếu giọng nói dẫn dắt trực tiếp."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "đình🤧dũng: cảm ơn đã thuyết phụp (0 likes)",
+          "Tâm Thefox · Creator: Bạn làm dc mấy cái rồi (2 likes)",
+          "Lan Họ Lê: ò. hể.kaka (1 like, Creator liked)",
+          "Cột sống mẹ 36t: Haha biểu cảm quá ạ🥰 (1 like, Creator liked)",
+          "Yotsuba Nakano: nói một đừng làm một nẻo 🤭🤣 (1 like, Creator liked)",
+          "Kiet Trần: Rất hay 👏 . (0 likes)",
+          "Anticb - Tiện Ích Cho Bạn: xin vía bạn (1 like)",
+          "Thành: Cảm ơn rất thuyết phục 😁 (1 like, 1 reply)"
+        ],
+        "main_reaction_groups": [
+          "Fan khen biểu cảm hài hước ('Haha biểu cảm quá ạ🥰', 'ò. hể.kaka', 'QUÁ Ồ 😁😁😁', 'nói một đừng làm một nẻo 🤭🤣').",
+          "Rất ít người thực sự chơi đoán từ hay trả lời câu hỏi mồi của chủ kênh (tổng chỉ 20 comments)."
+        ],
+        "comment_triggers": "Nhịp câu đố lật quá nhanh (2 giây đã hiện đáp án) khiến khán giả chưa kịp đoán để bình luận.",
+        "creator_interaction": "Chủ kênh tự bình luận mồi + thả tim bình luận khen biểu cảm."
+      },
+      "viral_reasons": [
+        "Ngắn gọn (27s) và biểu cảm vui nhộn tạo thiện cảm với fan cũ."
+      ],
+      "weaknesses": [
+        "Chỉ đạt 6,585 views (OS=0.11x) dù có mũ tai cáo thương hiệu & thời lượng 27s: (1) Ma sát đọc cao ngay giây 0–1 (câu hỏi chữ dài + dấu gạch dưới cần động não trên feed lướt nhanh); (2) Không có giọng nói trực tiếp giải thích lợi ích; (3) Gắn mác 'Phần 2' của mini-game tự phát không gắn với nỗi đau tìm kiếm cụ thể."
+      ],
+      "key_lessons": [
+        "Nhân vật biểu tượng (mũ tai cáo) KHÔNG tự động đảm bảo viral nếu Hook 0–3s tạo 'ma sát nhận thức' (bắt người xem đọc chữ dài & đoán đố).",
+        "Nội dung giáo dục trên TikTok hiệu quả nhất khi có giọng nói trực tiếp dẫn dắt thay vì chỉ dùng chữ + nhạc nền không lời."
+      ]
+    },
+    {
+      "grid_index": 128,
+      "batch_group": "Đối chiếu view thấp (Bối cảnh)",
+      "distribution_type": "bottom_contrast_low_reach",
+      "metadata_and_metrics": {
+        "video_id": "7555740760281320712",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7555740760281320712",
+        "posted_date": "2025-9-30",
+        "duration_sec": 70,
+        "caption": "Trang trí thêm cho bối cảnh quay #videomarketing #tamthefox #xaykenh #learnontiktok",
+        "hashtags": [
+          "#videomarketing",
+          "#tamthefox",
+          "#xaykenh",
+          "#learnontiktok"
+        ],
+        "is_pinned": false,
+        "views_text": "4947",
+        "views": 4947,
+        "likes_text": "165",
+        "likes": 165,
+        "comments_count_text": "19",
+        "comments_count": 19,
+        "bookmarks_text": "17",
+        "bookmarks": 17,
+        "shares_text": "10",
+        "shares": 10,
+        "outlier_score": 0.09,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 3.34,
+          "comment_rate": 0.38,
+          "bookmark_rate": 0.34,
+          "share_rate": 0.2
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Cảnh B-roll tĩnh trong phòng studio (áo đen, đeo kính, không mũ cáo) đứng sau bàn trắng cắt túi đất trồng cây, không có chuyển động đột ngột hay yếu tố gây tò mò mạnh.",
+        "text_hook": "Không có (null) — hoàn toàn không có tiêu đề mở đầu hay phụ đề cứng trên màn hình.",
+        "audio_hook": "Không có phụ đề/lời thoại hiển thị; chỉ dùng nhạc nền ('nhạc nền - Tâm Thefox') kết hợp B-roll trồng cây."
+      },
+      "topic_and_angle": {
+        "topic_category": "Hậu trường tự trồng/thay chậu cây trang trí góc quay studio",
+        "angle": "Đổi gió đời thường ('Lâu lâu nổi hứng đổi gió tí'), B-roll yên tĩnh.",
+        "emotional_triggers": [
+          "Thư giãn nhẹ / đời thường"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Cảnh tĩnh đứng sau bàn trắng cắt túi đất trồng cây, KHÔNG có tiêu đề chữ, KHÔNG có phụ đề, KHÔNG có lời thoại hook.",
+        "development": "Gỡ chậu cây vạn lộc (Aglaonema), cắt tỉa lá bằng kéo.",
+        "climax_or_demo": "Trồng cây trầu bà lá xẻ (Monstera adansonii) vào khay mới trộn perlite.",
+        "ending_cta": "Không có CTA; chủ kênh tự bình luận 'Lâu lâu nổi hứng đổi gió tí'."
+      },
+      "script_beats_observed": [
+        "~00:20 (~30%) — Đứng sau bàn trắng trong studio dùng dao cắt túi đất/xơ dừa",
+        "~00:32–00:35 (~45–50%) — Cho chậu cây vạn lộc (Aglaonema) vào túi, gỡ bầu rễ và tỉa lá bằng kéo cán đỏ",
+        "~01:01 (~88%) — Trồng lại cây trầu bà lá xẻ (Monstera adansonii) vào khay tối màu với đất trộn perlite"
+      ],
+      "visual_and_pacing": "B-roll trồng cây thuần túy (~70s), hoàn toàn không có text hook, không có phụ đề, không có bài học xây kênh cụ thể (chính chủ kênh tự bình luận 'Lâu lâu nổi hứng đổi gió tí'). Đây là bằng chứng trực diện cho thấy video lệch chủ đề kênh + thiếu text hook 0–3s sẽ bị tụt mạnh lượt xem (4,947 views, OS=0.09x).",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Chỉ dùng nhạc nền thuần túy, không có lời thuyết minh hay phụ đề cứng."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Nhung Daily: 💕💕💕 (2 likes, Creator liked, 1 reply)",
+          "nhânmater: Sớm (1 like, Creator liked)",
+          "US LỎ: 🥰🥰🥰 (1 like, Creator liked, 1 reply)",
+          "Bác Sĩ Nhung: 🥰🥰🥰 (1 like, Creator liked)",
+          "🧠🔥ᴺᵀᴸ ᴹᴱᴺᵀᴬᴸ🔥🧑🎨: sớm thí (1 like, Creator liked)",
+          "Bánh Mì Bà Nga: ba mươi mấy năm rồi mới thấy (1 like, Creator liked, 1 reply)",
+          "Em Mỡ 1 mét Rưỡi (Ngọc Cầu Kì): Cây do anh nuôi rể trong nước dc luôn (1 like)",
+          "Tâm Thefox · Creator: Lâu lâu nổi hứng đổi gió tí (0 likes)"
+        ],
+        "main_reaction_groups": [
+          "Fan cứng vào tương tác sớm ('Sớm', 'sớm thí', '🥰🥰🥰', 'ba mươi mấy năm rồi mới thấy').",
+          "1 bình luận góp ý chuyên môn trồng cây ('Cây do anh nuôi rể trong nước dc luôn')."
+        ],
+        "comment_triggers": "Chỉ thu hút 19 bình luận từ nhóm fan theo dõi sát kênh, hầu như không có khán giả mới.",
+        "creator_interaction": "Chủ kênh thả tim toàn bộ top 6 bình luận đầu và tự giải thích 'Lâu lâu nổi hứng đổi gió tí'."
+      },
+      "viral_reasons": [
+        "Không có (đây là video thử nghiệm/đổi gió cá nhân)."
+      ],
+      "weaknesses": [
+        "Đạt 4,947 views (OS=0.09x), chỉ 17 bookmarks và 10 shares — minh chứng chuẩn sách giáo khoa cho 2 lỗi chí mạng: (1) Lệch hoàn toàn khỏi tệp chủ đề lõi của kênh (trồng cây trên kênh xây kênh TikTok); (2) 0–3 giây đầu hoàn toàn trống không có text hook, không giọng nói, không lý do để người lạ dừng lướt."
+      ],
+      "key_lessons": [
+        "TUYỆT ĐỐI tránh đăng video 'nổi hứng đổi gió' lệch hẳn chủ đề lõi (off-niche) nếu đang tối ưu tăng trưởng kênh — thuật toán sẽ gửi sai tệp và cắt phân phối ngay vòng thử đầu.",
+        "Không bao giờ đăng video giáo dục/hậu trường không có text hook lẫn lời nói mở đầu trong 3 giây đầu."
+      ]
+    },
+    {
+      "grid_index": 245,
+      "batch_group": "Đối chiếu view thấp (Era cũ)",
+      "distribution_type": "bottom_contrast_early_era",
+      "metadata_and_metrics": {
+        "video_id": "7387338954762112257",
+        "url": "https://www.tiktok.com/@tam_thefox/video/7387338954762112257",
+        "posted_date": "2024-7-3",
+        "duration_sec": 138,
+        "caption": "Video sẽ bán hàng tốt hơn nếu thể hiện được yếu tố này #thefoxvideo #videomarketing #videoquangcao",
+        "hashtags": [
+          "#thefoxvideo",
+          "#videomarketing",
+          "#videoquangcao"
+        ],
+        "is_pinned": false,
+        "views_text": "3407",
+        "views": 3407,
+        "likes_text": "51",
+        "likes": 51,
+        "comments_count_text": "3",
+        "comments_count": 3,
+        "bookmarks_text": "15",
+        "bookmarks": 15,
+        "shares_text": "2",
+        "shares": 2,
+        "outlier_score": 0.06,
+        "labels_or_anchors": null,
+        "engagement_rates_pct": {
+          "like_rate": 1.5,
+          "comment_rate": 0.09,
+          "bookmark_rate": 0.44,
+          "share_rate": 0.06
+        }
+      },
+      "hook_0_3s": {
+        "visual_hook": "Studio nền tối (áo đen, kính, chưa có nhân vật mũ tai cáo), đang loay hoay chỉnh chiếc mũ bảo hiểm Royal màu cam lên đầu ma-nơ-canh đa giác màu trắng trên bàn; mở đầu khá chậm và thiếu điểm nhấn tương phản.",
+        "text_hook": "Không có banner tiêu đề trên đầu; chỉ có dòng phụ đề nhỏ màu trắng viền đen ở 00:02: 'thì gần như là không có'.",
+        "audio_hook": "Qua phụ đề cứng 00:02: '...thì gần như là không có' (nói về khái niệm học thuật USP — xác nhận qua bình luận của chủ kênh 'Vậy USP của bạn là gì??')."
+      },
+      "topic_and_angle": {
+        "topic_category": "Lý thuyết Marketing bán hàng — USP (Unique Selling Proposition)",
+        "angle": "Giảng giải lý thuyết bán hàng với đạo cụ mũ bảo hiểm Royal và hiệu ứng VFX truyện tranh.",
+        "emotional_triggers": [
+          "Học thuật / lý thuyết marketing"
+        ]
+      },
+      "script_structure": {
+        "opening_0_3s": "Studio nền tối, creator loay hoay gắn mũ bảo hiểm lên ma-nơ-canh trắng, không có banner tiêu đề, phụ đề trắng mỏng mờ 'thì gần như là không có'.",
+        "development": "Phân tích yếu tố khác biệt (USP) kéo dài hơn 2 phút (~138s).",
+        "climax_or_demo": "Chèn đồ họa VFX/truyện tranh mũ bảo hiểm 'Cafe Racer / Retro / Royal' trên nền tia tốc độ cam (ở 45% và 88%).",
+        "ending_cta": "Không có CTA mạnh trong video; 7 ngày sau (10/7) chủ kênh tự bình luận 'Vậy USP của bạn là gì??' (0 likes)."
+      },
+      "script_beats_observed": [
+        "00:02 — Studio tối, loay hoay gắn mũ bảo hiểm Royal lên đầu ma-nơ-canh trắng, nói về sự khác biệt sản phẩm ('thì gần như là không có')",
+        "01:02 (~45%) — Chuyển cảnh đồ họa VFX kiểu truyện tranh: góc nghiêng đội mũ 'Cafe Racer / Retro / Royal' có tia sáng trên nền tia tốc độ màu cam",
+        "02:01 (~88%) — Tiếp tục chuỗi hình minh họa mũ bảo hiểm theo phong cách truyện tranh trong video dài ~2 phút 18 giây; 7 ngày sau creator tự bình luận hỏi 'Vậy USP của bạn là gì??' (0 likes)"
+      ],
+      "visual_and_pacing": "Video giai đoạn sơ khai (7/2024) trước khi định hình phong cách viral: dài ~138s, ánh sáng tối, chưa có nhân vật biểu tượng hay banner 2 tầng, phụ đề trắng mỏng kém nổi bật, và xoay quanh lý thuyết marketing hàn lâm ('USP') kèm caption chung chung ('yếu tố này'). Kết quả chỉ đạt 3,407 views (OS=0.06x), 51 likes, 3 comments — đối lập hoàn toàn với bước nhảy lên 2.7M views chỉ 6 tuần sau đó khi chuyển sang nhân vật Cáo Chồn + công cụ TikTok thực chiến.",
+      "audio_analysis": {
+        "sound_name": "nhạc nền - Tâm Thefox",
+        "audio_role": "Giọng thuyết trình lý thuyết khá dài và đều, thiếu cao trào đối thoại hay nhịp bẻ lái."
+      },
+      "comment_insights": {
+        "top_comments_observed": [
+          "Tâm Thefox · Creator: Vậy USP của bạn là gì?? (0 likes)",
+          "nhânmater: 🥰🥰🥰 (0 likes)",
+          "REVIEW ONLINE: 😃 (0 likes)"
+        ],
+        "main_reaction_groups": [
+          "Gần như không có tương tác thảo luận: tổng cộng chỉ 3 bình luận (1 bình luận của chính chủ kênh 0 like và 2 bình luận chỉ thả emoji '🥰🥰🥰', '😃')."
+        ],
+        "comment_triggers": "Thuật ngữ hàn lâm ('USP') + caption mập mờ ('yếu tố này') không kích thích nổi thảo luận (chỉ 3 comments, 2 shares).",
+        "creator_interaction": "Tự bình luận gợi mở sau 7 ngày nhưng không nhận được phản hồi."
+      },
+      "viral_reasons": [
+        "Không có — đây là điểm mốc 'Trước khi bứt phá' (Jul 2024) cực giá trị để đối chiếu với cú lột xác 2.7M views chỉ 6 tuần sau đó (Video #226, Aug 2024)."
+      ],
+      "weaknesses": [
+        "Thấp nhất trong nhóm video đã ổn định (3,407 views, OS=0.06x, 51 likes, 3 comments, 2 shares) do hội tụ đủ 5 lỗi kinh điển: (1) Thời lượng dài 138s cho chủ đề trừu tượng; (2) Ánh sáng tối, mở đầu 0–3s chậm chạp loay hoay đạo cụ; (3) Không có banner tiêu đề, phụ đề trắng mỏng khó đọc; (4) Ngôn ngữ hàn lâm ('USP', 'Video sẽ bán hàng tốt hơn nếu thể hiện được yếu tố này') xa rời nỗi đau tức thì; (5) Đầu tư VFX tốn công nhưng sai chỗ (để giữa/cuối clip thay vì cứu 3 giây đầu)."
+      ],
+      "key_lessons": [
+        "Đầu tư VFX/đồ họa cầu kỳ KHÔNG cứu được một video có Hook 0–3s yếu và chủ đề trừu tượng.",
+        "Chuyển từ 'lý thuyết marketing hàn lâm' (USP — 3.4K views) sang 'giải ảo + công cụ thực chiến TikTok' (Creative Center — 2.7M views) tạo mức tăng trưởng gần **800 lần** trên cùng một người làm kênh!"
+      ]
+    }
+  ]
+}

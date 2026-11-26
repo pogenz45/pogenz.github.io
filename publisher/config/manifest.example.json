@@ -1,0 +1,25 @@
+{
+  "video_path": "videos/demo_short.mp4",
+  "title": "3 Mẹo AI giúp dựng video TikTok nhanh gấp 5 lần #shorts",
+  "description": "Hướng dẫn chi tiết quy trình tạo và tối ưu video ngắn đa nền tảng.\n\n#shorts #ai #videomarketing",
+  "caption": "3 mẹo AI dựng video ngắn cực nhanh — bạn đã thử mẹo số 2 chưa?",
+  "hashtags": ["ai", "videomarketing", "xaykenhtiktok"],
+  "tags": ["shorts", "ai video", "tiktok tips"],
+  "scheduled_at": "2026-12-01T19:00:00",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "is_ai_generated": true,
+  "normalize_video": true,
+  "target_channels": ["yt_main", "tiktok_1", "tiktok_2"],
+  "channel_overrides": {
+    "tiktok_1": {
+      "caption": "Kênh 1: 3 mẹo AI dựng video nhanh x5 cho người bận rộn!",
+      "hashtags": ["ai", "hocai", "tiktoktips"],
+      "scheduled_at": "2026-12-01T19:00:00"
+    },
+    "tiktok_2": {
+      "caption": "Kênh 2: Đừng dựng video thủ công nữa nếu chưa biết 3 mẹo AI này",
+      "hashtags": ["aitools", "contentcreator", "fyp"],
+      "scheduled_at": "2026-12-01T20:30:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# Secrets & local configs (KHÔNG BAO GIỜ commit lên GitHub)
+.env
+*.env
+!.env.example
+.secrets/
+**/.secrets/
+*client_secret*.json
+*token*.json
+publisher/config/channels.json
+
+# Local data, DB & media
+publisher/data/
+publisher/videos/
+publisher/output/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python environments & caches
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+**/.pytest_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

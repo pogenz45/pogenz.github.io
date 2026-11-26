@@ -1,0 +1,52 @@
+{
+  "channels": [
+    {
+      "key": "yt_main",
+      "platform": "youtube",
+      "provider": "youtube_official",
+      "display_name": "Kênh YouTube Chính",
+      "enabled": true,
+      "defaults": {
+        "privacy_status": "public",
+        "category_id": "22",
+        "made_for_kids": false,
+        "contains_synthetic_media": false,
+        "default_tags": ["shorts", "ai", "tiktok"]
+      }
+    },
+    {
+      "key": "tiktok_1",
+      "platform": "tiktok",
+      "provider": "zernio",
+      "display_name": "Kênh TikTok #1",
+      "enabled": true,
+      "account_id": "REPLACE_WITH_ZERNIO_ACCOUNT_ID_1",
+      "upload_post_user": "tiktok_profile_1",
+      "defaults": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "allow_comment": true,
+        "allow_duet": true,
+        "allow_stitch": true,
+        "is_aigc": false,
+        "post_mode": "DIRECT_POST"
+      }
+    },
+    {
+      "key": "tiktok_2",
+      "platform": "tiktok",
+      "provider": "zernio",
+      "display_name": "Kênh TikTok #2",
+      "enabled": true,
+      "account_id": "REPLACE_WITH_ZERNIO_ACCOUNT_ID_2",
+      "upload_post_user": "tiktok_profile_2",
+      "defaults": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "allow_comment": true,
+        "allow_duet": true,
+        "allow_stitch": true,
+        "is_aigc": false,
+        "post_mode": "DIRECT_POST"
+      }
+    }
+  ]
+}
